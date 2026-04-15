@@ -5,10 +5,10 @@
 __pycache__/
 *.pyc
 
-# Fichiers générés par le pipeline (reconstruisibles)
-embeddings.npy
-documents.json
-faiss_index.bin
+# Fichiers générés par le pipeline — inclus dans le repo pour le déploiement Render
+# embeddings.npy
+# documents.json
+# faiss_index.bin
 
 # Environnement virtuel
 nlp/
