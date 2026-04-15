@@ -150,25 +150,10 @@ OPENAI_API_KEY=votre_clé_openai   # uniquement pour l'enrichissement du corpus
 
 Le code du pipeline est dans `pipeline/`, avec un fichier par étape (a → e). L'interface est dans `app/app.py`. Les fichiers `documents.json`, `embeddings.npy` et `faiss_index.bin` sont générés localement après avoir lancé les étapes b et c — ils ne sont pas versionnés.
 
-```
-nlp/
-├── app/
-│   └── app.py
-├── pipeline/
-│   ├── a_verify_dataset.py
-│   ├── b_create_embeddings.py
-│   ├── c_build_faiss_index.py
-│   ├── d_search.py
-│   ├── e_rag_pipeline.py
-│   └── enrich_corpus.py
-├── notion_rag_corpus.json
-└── requirements.txt
-```
-
 ---
 
 ## Auteur
 
-**Nesho Kanthakumar**
+**Nesho Kanthakumar**,
 Étudiant en Data Science
 [GitHub](https://github.com/Nesho-k) · [LinkedIn](https://www.linkedin.com/in/nesho-kanthakumar-6354512a6/)
