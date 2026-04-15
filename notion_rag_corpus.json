@@ -1,0 +1,106 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Créer une page",
+    "section": "Pages & démarrage",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/create-your-first-page",
+    "text": "Une page est l'unité de base dans Notion : c'est un espace vierge où vous pouvez ajouter du texte, des images, des bases de données et tout autre type de contenu. Pour créer une nouvelle page, cliquez sur le bouton « Nouvelle page » dans la barre latérale gauche, ou utilisez le raccourci Cmd/Ctrl + N. Une nouvelle page s'ouvre immédiatement comme une toile blanche.\n\nDonnez-lui d'abord un titre en cliquant sur la zone « Sans titre » en haut. Vous pouvez également ajouter une icône (emoji ou image) et une image de couverture pour la rendre visuellement identifiable dans la barre latérale. Pour commencer à ajouter du contenu, tapez directement ou utilisez la commande « / » (barre oblique) pour ouvrir le menu des types de blocs disponibles : texte, titres, listes, images, bases de données, etc.\n\nLes pages peuvent être imbriquées : une page peut contenir des sous-pages, formant une arborescence hiérarchique visible dans la barre latérale. Pour déplacer une page, utilisez le glisser-déposer dans la barre latérale ou la commande « Déplacer vers » dans le menu contextuel (icône •••). Les pages supprimées sont placées dans la Corbeille et peuvent être restaurées dans les 30 jours suivant leur suppression."
+  },
+  {
+    "id": "doc_002",
+    "title": "Utiliser les blocs",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/writing-and-editing-basics",
+    "text": "Dans Notion, tout le contenu d'une page est composé de blocs. Un bloc est un élément individuel de contenu : un paragraphe de texte, un titre (H1, H2, H3), une image, une liste à puces, une liste numérotée, un bloc de code, une vidéo, un fichier, une case à cocher, un bloc de citation, un séparateur ou encore un bloc d'appel (callout). Pour insérer un nouveau bloc, tapez « / » n'importe où dans une page : un menu de sélection apparaît en temps réel.\n\nLes blocs peuvent être réorganisés par glisser-déposer en saisissant la poignée « ⋮⋮ » qui s'affiche à gauche de chaque bloc au survol de la souris. Il est aussi possible de transformer un bloc existant en un autre type via cette même poignée, en sélectionnant « Transformer en ». Par exemple, vous pouvez convertir un paragraphe en liste à puces ou en titre.\n\nPour formater le texte, sélectionnez-le pour faire apparaître une barre d'outils flottante qui permet de le mettre en gras, en italique, de le souligner, de changer sa couleur ou de créer un lien hypertexte. Notion supporte également les raccourcis Markdown : ** pour le gras, * pour l'italique, # pour les titres, - ou * pour les listes à puces, et [] pour les cases à cocher."
+  },
+  {
+    "id": "doc_003",
+    "title": "Introduction aux bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/intro-to-databases",
+    "text": "Les bases de données dans Notion sont des collections structurées de pages. Chaque élément (ligne, carte, entrée) est lui-même une page Notion à part entière, que vous pouvez ouvrir pour y ajouter du contenu détaillé. Pour créer une base de données, tapez « / » dans une page et choisissez « Table » (ou tout autre type de vue). Vous pouvez créer une base de données en pleine page ou une base de données intégrée (inline) à l'intérieur d'une page existante.\n\nCe qui rend les bases de données Notion uniques, c'est leur système de propriétés. Vous pouvez ajouter autant de propriétés que nécessaire pour structurer vos données : texte, nombre, sélection simple, sélection multiple, date, case à cocher, URL, email, téléphone, personne, fichier, formule, relation ou rollup. Cliquez sur « + » en tête de colonne pour ajouter une propriété, ou sur le nom d'une propriété existante pour modifier son type.\n\nChaque entrée de la base de données est une page : ouvrez-la pour y ajouter du contenu libre (texte, images, listes) en plus des propriétés structurées. Les propriétés sont idéales pour les données catégorisées (statut, date, priorité), tandis que le contenu de la page convient aux descriptions, notes et documents détaillés. Les bases de données sont particulièrement utiles pour gérer des projets, des tâches, des contacts ou tout contenu répétitif nécessitant un suivi structuré."
+  },
+  {
+    "id": "doc_004",
+    "title": "Vues, filtres et tris dans les bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/views-filters-and-sorts",
+    "text": "Une base de données Notion peut être visualisée sous plusieurs formes sans modifier les données sous-jacentes. Les types de vues disponibles sont : Table (tableau classique avec lignes et colonnes), Board (kanban organisé par propriété), Calendar (calendrier basé sur une propriété Date), Gallery (galerie de cartes avec aperçu visuel), List (liste minimaliste) et Timeline (frise chronologique pour les projets, sur plans payants).\n\nPour ajouter une nouvelle vue, cliquez sur « + » à côté des onglets de vues en haut de la base de données, choisissez un type et donnez-lui un nom. Chaque vue possède ses propres paramètres indépendants : vous pouvez configurer des filtres différents pour chaque vue sans affecter les autres.\n\nLes filtres permettent d'afficher uniquement les entrées qui correspondent à des conditions précises. Par exemple : « Statut = En cours » ou « Date < Aujourd'hui ». Les filtres peuvent être combinés avec des opérateurs ET/OU. Les tris permettent d'ordonner les entrées selon une ou plusieurs propriétés (ordre alphabétique, chronologique, numérique). Le regroupement (group by) permet de répartir les entrées en sections selon les valeurs d'une propriété de type Sélection ou Statut. Ces trois paramètres (filtres, tris, regroupement) sont propres à chaque vue."
+  },
+  {
+    "id": "doc_005",
+    "title": "Inviter des membres et gérer les permissions",
+    "section": "Collaboration",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/sharing-and-permissions",
+    "text": "Notion offre un système flexible de partage et de permissions. Pour inviter un membre dans tout le workspace, ouvrez les Paramètres via la barre latérale, allez dans l'onglet « Membres », puis cliquez sur « Ajouter des membres » et entrez l'adresse email de la personne. Elle recevra une invitation par email.\n\nPour partager une page individuelle sans donner accès au workspace entier, cliquez sur le bouton « Partager » en haut à droite de la page, puis entrez l'email de la personne ou partagez le lien. Les niveaux de permission disponibles sont : Accès complet (peut modifier, partager et inviter d'autres personnes), Peut modifier (peut modifier le contenu), Peut modifier le contenu (spécifique aux bases de données : peut créer et éditer des entrées mais pas modifier la structure), Peut commenter (lecture + commentaires uniquement) et Peut voir (lecture seule).\n\nNotion applique toujours le niveau d'accès le plus large accordé à un utilisateur. Par exemple, si un membre a accès « Peut voir » sur une page, mais que vous lui accordez ensuite « Accès complet » au workspace entier, c'est ce dernier niveau qui s'applique. Déplacer une page dans la section Privée de la barre latérale supprime automatiquement l'accès de tous les autres utilisateurs à cette page."
+  },
+  {
+    "id": "doc_006",
+    "title": "Naviguer et organiser le workspace",
+    "section": "Navigation",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/navigate-with-the-sidebar",
+    "text": "Le workspace est l'espace de travail central dans Notion. La barre latérale gauche est le point de navigation principal : elle affiche les sections Teamspaces (plans payants), Partagé, Privé, Favoris et Corbeille. Chaque section peut être réduite ou étendue en cliquant sur son nom.\n\nPour organiser votre workspace efficacement, créez des pages parentes qui servent de sections principales (par exemple « Projets », « Ressources », « Archives ») et imbriquez les pages connexes à l'intérieur. Cette hiérarchie de pages est visible et navigable directement dans la barre latérale via les triangles d'expansion. Vous pouvez réorganiser les pages par glisser-déposer dans la barre latérale.\n\nPour marquer une page en favori pour un accès rapide, cliquez sur l'icône étoile (⭐) en haut de la page ou dans le menu contextuel (•••) de la barre latérale. Les favoris apparaissent dans une section dédiée en haut de la barre latérale. La Corbeille conserve les pages supprimées pendant 30 jours avant suppression définitive — vous pouvez les rechercher et les restaurer à tout moment depuis cet espace."
+  },
+  {
+    "id": "doc_007",
+    "title": "Utiliser les templates",
+    "section": "Productivité",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/start-with-a-template",
+    "text": "Les templates Notion sont des modèles de pages préconfigurés qui permettent de démarrer rapidement sans partir de zéro. Notion propose une bibliothèque officielle (Marketplace) accessible depuis le bouton « Templates » dans la barre latérale. Celle-ci contient des centaines de modèles couvrant des cas d'usage variés : gestion de projet, wiki d'équipe, suivi de tâches, CRM, prise de notes, planification de contenu, etc. Pour utiliser un template, sélectionnez-le dans la galerie et cliquez sur « Ajouter » pour l'importer dans votre workspace. Il devient ensuite une page ordinaire, entièrement modifiable.\n\nVous pouvez aussi créer vos propres templates de base de données. Dans n'importe quelle base de données, cliquez sur la flèche déroulante à côté du bouton « + Nouveau » en haut à droite, puis sélectionnez « + Nouveau template ». Définissez les propriétés, le contenu de la page et les valeurs par défaut. Toute nouvelle entrée créée à partir de ce template héritera automatiquement de cette structure.\n\nNotion propose également des templates récurrents : vous pouvez configurer un template de base de données pour qu'il génère automatiquement une nouvelle entrée selon une fréquence définie (quotidienne, hebdomadaire, mensuelle), idéal pour les comptes-rendus de réunions ou les rapports périodiques."
+  },
+  {
+    "id": "doc_008",
+    "title": "Relations et rollups",
+    "section": "Bases de données avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/relations-and-rollups",
+    "text": "Les relations permettent de connecter deux bases de données entre elles dans Notion. Par exemple, vous pouvez relier une base de données « Projets » à une base de données « Tâches », de sorte que chaque tâche soit associée à un projet précis. Pour créer une relation, ajoutez une nouvelle propriété dans une base de données et choisissez le type « Relation », puis sélectionnez la base de données cible. Vous pouvez activer la relation bidirectionnelle pour que chaque base affiche les entrées liées en retour.\n\nLes rollups vont plus loin en vous permettant d'agréger les données des entrées liées. Par exemple, si chaque projet est lié à plusieurs tâches, un rollup peut calculer automatiquement : le nombre total de tâches (Count), la somme des estimations de durée (Sum), la moyenne, le minimum, le maximum, ou afficher directement les valeurs (Show original). Pour créer un rollup, ajoutez une propriété de type « Rollup », sélectionnez la propriété de relation à utiliser, choisissez la propriété à agréger dans la base liée, puis appliquez la fonction de calcul souhaitée.\n\nLes rollups peuvent également traiter des dates (date la plus ancienne, la plus récente, plage de dates) et des valeurs textuelles (liste des valeurs). Ils sont particulièrement puissants pour les tableaux de bord : par exemple, afficher automatiquement le pourcentage de tâches complétées pour chaque projet."
+  },
+  {
+    "id": "doc_009",
+    "title": "Rechercher du contenu",
+    "section": "Navigation",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/keyboard-shortcuts",
+    "text": "La recherche dans Notion permet de retrouver rapidement n'importe quelle page ou contenu dans votre workspace. Pour ouvrir la barre de recherche, utilisez le raccourci clavier Cmd/Ctrl + P ou Cmd/Ctrl + K, ou cliquez sur l'icône de recherche en haut de la barre latérale gauche.\n\nLa recherche affiche d'abord les pages récemment consultées, puis filtre les résultats en temps réel au fur et à mesure de votre saisie. Elle porte sur les titres de pages et sur le contenu textuel des blocs. Vous pouvez affiner les résultats en filtrant par date de dernière modification, par auteur, ou en limitant la recherche à une section spécifique du workspace.\n\nPour une recherche à l'intérieur d'une page spécifique (et non dans tout le workspace), utilisez le raccourci Cmd/Ctrl + F. Pour une recherche ciblée au sein d'une base de données, il est préférable d'utiliser les filtres natifs de cette base plutôt que la recherche globale, car elle indexe principalement les titres et les contenus textuels. La recherche globale est disponible sur tous les plans Notion, y compris le plan gratuit, et fonctionne en temps réel sans rechargement de page."
+  },
+  {
+    "id": "doc_010",
+    "title": "Raccourcis clavier",
+    "section": "Productivité",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/keyboard-shortcuts",
+    "text": "Notion propose de nombreux raccourcis clavier pour accélérer la navigation et l'édition. Les plus essentiels à retenir sont : Cmd/Ctrl + N pour créer une nouvelle page, Cmd/Ctrl + P ou Cmd/Ctrl + K pour ouvrir la recherche globale, Cmd/Ctrl + [ pour revenir à la page précédente, et Cmd/Ctrl + ] pour avancer. Pour copier l'URL d'une page, utilisez Cmd/Ctrl + L.\n\nDans l'éditeur, « / » est la commande la plus importante : elle ouvre le menu des types de blocs. Vous pouvez taper directement après « / » pour filtrer (par exemple « /image » ou « /titre »). Pour créer un lien vers une autre page, tapez « [[ » suivi du nom de la page. Pour mentionner une personne ou une page, tapez « @ ». Pour formater le texte en Markdown : ** pour le gras, * pour l'italique, # pour un titre H1, ## pour H2, - ou * pour une liste à puces, [] pour une case à cocher.\n\nPour la gestion des blocs : maintenez Cmd/Ctrl + Maj + flèches directionnelles pour déplacer un bloc. Cmd/Ctrl + D pour dupliquer un bloc sélectionné. Cmd/Ctrl + / pour changer le type d'un bloc ou modifier ses propriétés (couleur, alignement). Ces raccourcis fonctionnent sur desktop et sur le web, mais certains peuvent différer sur mobile où l'interface est adaptée pour le tactile."
+  },
+  {
+    "id": "doc_011",
+    "title": "Formatage et personnalisation des pages",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/customize-and-style-your-content",
+    "text": "Notion offre de nombreuses options pour personnaliser l'apparence et la structure de vos pages. Pour mettre en forme du texte, sélectionnez-le pour faire apparaître la barre d'outils flottante : vous pouvez appliquer gras, italique, souligné, barré, code inline, changer la couleur du texte ou de son arrière-plan (16 couleurs disponibles), ou ajouter un lien hypertexte.\n\nPour structurer une page, utilisez les titres (H1 avec #, H2 avec ##, H3 avec ###), les listes à puces (- ou *), les listes numérotées (1.), les cases à cocher ([]), les blocs de citation (\"), les séparateurs (---) et les blocs d'appel (callout) pour mettre en évidence des informations importantes avec une icône. Vous pouvez créer des colonnes en glissant un bloc à droite d'un autre bloc existant.\n\nChaque page peut avoir une icône (emoji ou image personnalisée) et une image de couverture. Pour les activer, survolez le haut de la page et cliquez sur « Ajouter une icône » ou « Ajouter une couverture ». Pour élargir la zone de contenu et supprimer les marges, activez l'option « Pleine largeur » depuis le menu ••• en haut à droite. Ces paramètres de présentation sont propres à chaque page et n'affectent pas les autres."
+  },
+  {
+    "id": "doc_012",
+    "title": "Liens et backlinks",
+    "section": "Navigation & organisation",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/create-links-and-backlinks",
+    "text": "Dans Notion, vous pouvez créer des liens vers d'autres pages de votre workspace pour naviguer facilement entre contenus reliés. Pour créer un lien inline vers une page existante, tapez « [[ » suivi du nom de la page cible, puis sélectionnez-la dans le menu déroulant. Vous pouvez aussi utiliser « @ » pour mentionner une page dans un texte. Ces liens sont dynamiques : si vous renommez la page cible, le lien se met à jour automatiquement.\n\nChaque fois que vous liez une page depuis une autre, Notion crée automatiquement un backlink (rétrolien) sur la page cible. Ces backlinks apparaissent sous le titre de la page dans une section « X backlinks ». Cliquez sur ce compteur pour voir la liste de toutes les pages qui pointent vers la page courante — un moyen puissant de découvrir les connexions entre vos contenus.\n\nVous pouvez personnaliser l'affichage des backlinks : cliquez sur le menu ••• en haut à droite de la page, sélectionnez « Personnaliser la page », puis configurez les backlinks pour qu'ils soient toujours visibles, visibles au survol seulement, ou masqués. Les backlinks vers vos pages privées ne sont visibles que par vous. Pour une base de données, les backlinks peuvent être configurés depuis « Personnaliser la mise en page »."
+  },
+  {
+    "id": "doc_013",
+    "title": "Utiliser les pages hors ligne",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/help/use-pages-offline",
+    "text": "Notion permet d'accéder à vos pages et de les modifier même sans connexion Internet, via les applications desktop et mobile (cette fonctionnalité n'est pas disponible dans le navigateur web). Pour rendre une page disponible hors ligne, ouvrez-la, cliquez sur le menu ••• en haut à droite de la page, et activez « Disponible hors ligne ». Une barre de progression indique le téléchargement ; une fois terminé, la page est prête à être utilisée sans connexion.\n\nToutes les modifications effectuées hors ligne sont sauvegardées localement et synchronisées automatiquement avec le cloud dès que la connexion Internet est rétablie. Les conflits d'édition (si plusieurs personnes ont modifié la même page) sont gérés automatiquement lors de la synchronisation. Sur les plans payants (Plus, Business, Enterprise), Notion télécharge automatiquement vos pages récentes et vos favoris pour un accès hors ligne immédiat.\n\nAttention : les sous-pages d'une page téléchargée ne sont pas automatiquement disponibles hors ligne — chaque sous-page doit être marquée individuellement. Pour les bases de données, seules les 50 premières lignes de la première vue sont téléchargées automatiquement. Pour consulter toutes vos pages disponibles hors ligne, accédez à Paramètres → Hors ligne."
+  }
+]

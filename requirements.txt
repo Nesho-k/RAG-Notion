@@ -1,0 +1,35 @@
+# ============================================================
+# Dépendances du projet RAG Notion
+# ============================================================
+
+# sentence-transformers : génère les embeddings vectoriels à partir du texte.
+# Télécharge automatiquement PyTorch en dépendance (~1.5 Go au premier lancement).
+sentence-transformers==3.3.1
+
+# faiss-cpu : moteur de recherche vectorielle ultra-rapide de Meta.
+# La version "cpu" suffit pour 13 documents — la version GPU n'apporterait rien ici.
+faiss-cpu==1.9.0.post1
+
+# google-generativeai : SDK officiel de Google pour appeler l'API Gemini.
+# Utilisé pour la génération de la réponse finale en français.
+google-generativeai==0.8.3
+
+# numpy : manipulation de tableaux numériques (matrices d'embeddings).
+# Requis par sentence-transformers et faiss-cpu.
+numpy==1.26.4
+
+# python-dotenv : charge automatiquement les variables d'un fichier .env
+# dans os.environ au démarrage du script. Évite d'écrire les clés API en dur.
+python-dotenv==1.0.1
+
+# streamlit : framework pour créer des apps web en Python pur.
+streamlit==1.41.1
+
+# openai : SDK officiel OpenAI — utilisé dans enrich_corpus.py pour générer les résumés.
+openai==1.57.0
+
+# requests : effectue des requêtes HTTP pour télécharger les pages web.
+requests==2.32.3
+
+# beautifulsoup4 : parse le HTML des pages pour en extraire le texte.
+beautifulsoup4==4.12.3

@@ -1,0 +1,14 @@
+# Clé API — ne jamais committer ce fichier
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers générés par le pipeline (reconstruisibles)
+embeddings.npy
+documents.json
+faiss_index.bin
+
+# Environnement virtuel
+nlp/

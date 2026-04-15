@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "doc_014",
+    "title": "En quoi consiste l’IA de Notion ?",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-ai-faqs",
+    "text": "L’IA de Notion est intégrée aux forfaits Business et Enterprise, tandis que les utilisateurs des forfaits Gratuit et Plus ont accès à un nombre limité de réponses d’IA gratuites. Cette IA agit comme un membre personnalisé de l’équipe, accessible directement dans Notion, ce qui élimine le besoin de passer d’un outil à un autre. Elle peut accomplir diverses tâches, allant de la révision de rapports à la création de bases de données de tâches, permettant ainsi aux utilisateurs de se concentrer sur des activités essentielles. L’IA peut interagir avec les utilisateurs via un agent Notion, capable d’utiliser le contexte de l’espace de travail et des applications connectées pour créer et modifier des contenus. Elle peut également rechercher des informations dans des applications comme Slack et Google Drive, explorer des sujets spécifiques, transcrire et résumer des réunions, améliorer l’écriture, traduire des pages et automatiser des bases de données. L’agent Notion est conçu pour exécuter des tâches de manière autonome, en consultant les ressources disponibles et en personnalisant son apparence et ses compétences pour mieux s’adapter aux besoins de l’utilisateur. Cette personnalisation permet à l’agent de devenir un véritable membre de l’équipe, intégré et sur mesure pour chaque espace de travail."
+  },
+  {
+    "id": "doc_015",
+    "title": "Agent Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-agent",
+    "text": "L'agent Notion est un assistant IA intégré à Notion, conçu pour aider les utilisateurs à créer et modifier des pages et des bases de données en s'appuyant sur le contexte de leur espace de travail et des applications connectées. Il est possible de personnaliser ses réponses en lui fournissant des compétences et des instructions spécifiques. L'agent dispose des mêmes autorisations que l'utilisateur, ce qui signifie qu'il ne peut pas accéder à des contenus que l'utilisateur ne peut pas voir ou modifier. Les utilisateurs peuvent annuler les modifications effectuées par l'agent. Pour interagir avec lui, il suffit de cliquer sur son icône en bas de l'interface. Les utilisateurs peuvent choisir des actions prédéfinies en fonction de la page consultée, poser des questions complexes ou demander des tâches en plusieurs étapes. L'agent prend en compte le contexte de la page active et peut se concentrer sur des blocs spécifiques sélectionnés par l'utilisateur. Il est également possible de fournir un contexte supplémentaire en mentionnant des pages ou des personnes. L'agent peut consulter des fichiers chargés et, selon le modèle d'IA sélectionné, il peut s'appuyer sur des informations du Web. En somme, l'agent Notion est un outil puissant pour optimiser la gestion des tâches et l'organisation des informations au sein de Notion."
+  },
+  {
+    "id": "doc_016",
+    "title": "Remboursements",
+    "section": "Facturation & abonnements",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/refunds",
+    "text": "Notre politique de remboursement est conçue pour être claire et accessible. Si vous avez souscrit par erreur à un abonnement payant sur Notion, il est possible d'obtenir un remboursement total. Pour cela, il est nécessaire de nous contacter via l’application ou par e-mail à l’adresse fournie dans les trois jours suivant la création de la facture pour un abonnement mensuel, ou dans les 30 jours pour un abonnement annuel, si vous choisissez de passer à un forfait inférieur. En cas de facturation pour des membres ajoutés par erreur à votre espace de travail, un remboursement au prorata sera effectué si vous nous contactez dans les trois jours suivant la date de facturation. Il est important de s'assurer que les membres supplémentaires ont été supprimés de votre espace de travail avant de faire la demande de remboursement. Il convient également de noter que si l'abonnement a été acheté via l’App Store d’Apple, les demandes de remboursement doivent être adressées directement à l’App Store. Cette politique vise à garantir une expérience utilisateur positive tout en offrant des solutions en cas d'erreur de souscription."
+  },
+  {
+    "id": "doc_019",
+    "title": "Qu'est-ce qu'un bloc ?",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/what-is-a-block",
+    "text": "Dans Notion, chaque élément ajouté à une page est considéré comme un « bloc ». Lorsque vous commencez à taper sur une nouvelle page, vous créez un bloc de texte, mais Notion permet d'intégrer divers types de contenus, tels que des images ou des tableaux, transformant ainsi chaque page en une collection de blocs. Pour explorer les différents types de contenus que vous pouvez ajouter, il suffit d'appuyer sur la touche / de votre clavier ou sur le bouton + si vous utilisez un appareil mobile. De plus, chaque bloc peut être modifié pour devenir un autre type de bloc, ce qui offre une flexibilité dans la présentation et l'organisation des informations. Pour ce faire, il suffit de cliquer sur le symbole ⋮⋮ et de sélectionner l'option « Transformer en ». Notion permet également de réorganiser les blocs en utilisant la même icône, ce qui facilite le réarrangement des idées par un simple glisser-déposer. Cette fonctionnalité permet aux utilisateurs d'adapter leur contenu de manière intuitive et dynamique. Pour approfondir vos connaissances sur l'utilisation des blocs, il est recommandé de consulter des articles d'aide supplémentaires disponibles dans Notion."
+  },
+  {
+    "id": "doc_020",
+    "title": "Créer une sous-page",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/create-a-subpage",
+    "text": "Une sous-page est une page intégrée à une page principale, permettant ainsi de créer une hiérarchie d’informations. Notion permet de créer un nombre illimité de sous-pages pour chaque page parente. Pour créer une sous-page, plusieurs méthodes sont disponibles. La première consiste à ouvrir la page parente et à utiliser la commande slash en tapant /page. Une autre méthode consiste à cliquer sur le symbole plus (+) situé à droite du titre de la page dans la barre latérale, ce qui générera une sous-page. Une fois la sous-page créée, il est possible de lui attribuer un titre et de commencer à y ajouter du contenu. Pour ceux qui cherchent de l'inspiration, l'application de bureau ou la version Web propose des options en bas de la page, permettant d'importer des fichiers, d'utiliser des modèles ou de créer des tableaux, facilitant ainsi la mise en forme de la nouvelle page. La navigation entre les pages et sous-pages se fait aisément grâce à la barre latérale et au fil d’Ariane, qui indiquent la localisation de la page actuelle. Enfin, la réorganisation des pages est simple : il suffit de faire glisser une sous-page pour la désimbriquer de sa page parente ou pour l’intégrer dans une autre page."
+  },
+  {
+    "id": "doc_021",
+    "title": "Qu’est-ce qu’une base de données ?",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/what-is-a-database",
+    "text": "Les bases de données dans Notion sont des ensembles de pages qui fonctionnent comme des classeurs ou des cahiers, permettant d'organiser de nombreuses pages dans une structure unique. Chaque base de données est représentée par une table où chaque ligne correspond à une page, offrant ainsi une vue d'ensemble immédiate de l'ensemble des éléments. Pour accéder aux détails d'un élément, il suffit de cliquer sur la ligne correspondante. En outre, chaque base de données est également une page à part entière, ce qui permet de la déplacer et de l'imbriquer avec d'autres contenus, tout comme n'importe quelle autre page. Pour faciliter l'organisation des pages au sein d'une base de données, il est possible d'ajouter des propriétés qui permettent de contextualiser, étiqueter et compléter chaque élément. Ces propriétés offrent la possibilité de rechercher, filtrer et trier les données selon leurs valeurs. De plus, les bases de données permettent d'afficher le même contenu de différentes manières grâce à des vues variées, telles que la table, la liste, le tableau, le calendrier, la galerie, la chronologie ou le graphique, offrant ainsi une flexibilité d'affichage selon la nature des données."
+  },
+  {
+    "id": "doc_022",
+    "title": "Créer une base de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/create-a-database",
+    "text": "Pour créer une nouvelle base de données dans Notion, il suffit de créer une nouvelle page et de sélectionner l'option Table sous \"Premiers pas avec\". Alternativement, il est possible d'ouvrir une page existante et d'utiliser la commande slash /database. Dans la première colonne de la table, vous pouvez entrer le nom de vos pages, chaque colonne représentant une propriété qui ajoute du contexte à votre contenu. Pour modifier une propriété, cliquez sur son nom, puis sur \"Modifier la propriété\" et \"Modifier le type\" pour explorer les différents types disponibles. Notion propose également une fonctionnalité d’IA qui permet de créer une base de données rapidement, accessible à tous, même sans l’IA dans l’espace de travail. Pour l’utiliser, créez une nouvelle page ou ouvrez une page existante, puis sélectionnez \"Générer avec l’IA\" dans le menu. Fournissez des détails sur la base de données souhaitée, comme un outil de suivi des commentaires des clients. L’IA génère un aperçu avec des options pour ajouter ou supprimer des fonctionnalités. Une fois satisfait, sélectionnez \"Continuer\", choisissez la visualisation des éléments, puis cliquez sur \"Terminé\". Notez que l’IA ne peut pas modifier les bases de données existantes ni créer des pages dans celles-ci."
+  },
+  {
+    "id": "doc_023",
+    "title": "Partager votre travail",
+    "section": "Collaboration",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/share-your-work",
+    "text": "Vous pouvez partager des pages Notion avec d'autres utilisateurs, qu'ils soient membres de votre espace de travail ou non. Pour inviter quelqu'un, accédez à votre page dans la section Pages privées, cliquez sur le bouton Partager en haut à droite, puis saisissez le nom ou l'adresse e-mail de la personne. Sélectionnez un niveau d'accès et cliquez sur Inviter. Si la personne n'est pas membre de votre espace de travail, elle sera ajoutée en tant qu'invité. Pour partager avec votre équipe, vous pouvez donner accès à tous les membres de votre espace de travail en sélectionnant l'option appropriée dans le menu de partage. Vous pouvez également créer des pages dans des espaces d'équipe par défaut, ce qui permet à tous les membres d'accéder automatiquement à ces pages. Une autre méthode consiste à faire glisser une page privée dans un espace d'équipe, ce qui la partage instantanément. Chaque page Notion a une URL unique que vous pouvez partager sur d'autres plateformes. Si vous souhaitez que des personnes extérieures à Notion puissent accéder à votre page, activez l'option de partage sur le Web et choisissez le niveau d'accès souhaité. Vous pouvez également définir une date d'expiration pour le lien partagé."
+  },
+  {
+    "id": "doc_024",
+    "title": "Travailler en équipe",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/collaborate-with-people",
+    "text": "Dans Notion, la collaboration en temps réel permet à un nombre illimité de personnes de modifier simultanément une même page, avec leurs photos de profil affichées à l'endroit où elles interagissent. Les modifications et commentaires sont visibles immédiatement après publication, et il est possible de consulter l'historique des modifications en cliquant sur l'icône en haut de la page. Les ajouts sont surlignés en bleu, tandis que les suppressions sont barrées en gris. Pour faciliter la communication, il est possible de mentionner un coéquipier en tapant \"@\" suivi de son nom, ce qui lui enverra une notification avec un lien direct vers la mention. Les commentaires peuvent être ajoutés à des contenus spécifiques en utilisant l'option \"Ajouter un commentaire\" ou en sélectionnant du texte pour commenter. Notion favorise la communication asynchrone, avec des notifications envoyées pour signaler les modifications ou les mentions. Les utilisateurs peuvent consulter toutes leurs notifications dans la Boîte de réception, où les modifications sont signalées par un badge gris et les mentions par un badge rouge. En cliquant sur une notification, l'utilisateur peut accéder directement à l'élément concerné, ce qui facilite le suivi des interactions et des mises à jour sur les pages."
+  },
+  {
+    "id": "doc_026",
+    "title": "Créer, rejoindre et quitter des espaces de travail",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/create-delete-and-switch-workspaces",
+    "text": "Pour créer un nouvel espace de travail dans Notion, ouvrez le sélecteur d’espaces de travail en haut à gauche de l’interface. Sélectionnez l’adresse e-mail à laquelle vous souhaitez associer cet espace, puis cliquez sur le bouton correspondant pour rejoindre ou créer un espace de travail. Si vous utilisez une adresse e-mail professionnelle, vous pourrez voir une liste d’espaces de travail disponibles à rejoindre. Pour créer un nouvel espace, faites défiler la liste et cliquez sur \"Créer un espace de travail\", puis suivez les instructions pour le configurer. Il est conseillé d’utiliser plusieurs espaces de travail pour organiser différents aspects de votre vie, comme le personnel, les études ou les projets freelance. Pour rejoindre un espace de travail existant, un administrateur peut vous ajouter en tant que membre, ce qui vous enverra un e-mail avec un lien d’accès. Si l’ajout automatique est activé pour votre domaine, vous pourrez rejoindre des espaces via le sélecteur. Pour passer d’un espace de travail à un autre, cliquez simplement sur le nom de l’espace actuel et sélectionnez celui souhaité. Vous pouvez également utiliser un raccourci clavier pour faciliter cette navigation. Enfin, quitter un espace de travail signifie que vous perdrez l’accès à son contenu, il est donc conseillé d’exporter les données si nécessaire."
+  },
+  {
+    "id": "doc_027",
+    "title": "Gérer votre bibliothèque",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/manage-your-library",
+    "text": "La bibliothèque de Notion est un outil centralisé qui facilite la recherche et l'organisation des pages au sein de votre espace de travail. Pour y accéder, il suffit de sélectionner l'option Bibliothèque dans la barre latérale. Cette barre latérale est personnalisable, permettant de retirer ou d'ajouter des sections selon vos préférences, tout en conservant l'accès aux sections supprimées via la bibliothèque. La bibliothèque comprend plusieurs onglets en haut de la page, tels que Espaces d’équipe pour le contenu d'équipe, Récentes pour les pages récemment consultées, Favoris pour les pages marquées, Pages partagées pour celles qui vous ont été partagées, et Pages privées pour vos documents personnels. Pour faciliter la recherche de pages, vous pouvez les chercher par nom, appliquer des filtres et personnaliser les détails affichés. De plus, la bibliothèque permet de gérer plusieurs pages simultanément, ce qui rend les opérations plus efficaces. Par exemple, il est possible de déplacer plusieurs pages vers un espace d’équipe, de supprimer plusieurs pages à la fois ou de modifier les icônes de plusieurs pages simultanément. Cette fonctionnalité rend la gestion de votre contenu plus fluide et organisée."
+  },
+  {
+    "id": "doc_028",
+    "title": "Créer, rejoindre et quitter des espaces d’équipe",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/browse-join-and-create-teamspaces",
+    "text": "Lorsque vous rejoignez un espace de travail au forfait Plus, Business ou Enterprise, vous accédez automatiquement à tous les espaces d’équipe par défaut. Pour afficher la liste des espaces d’équipe, cliquez sur l’option « Plus » dans la barre latérale gauche. En haut, vous verrez les espaces d’équipe auxquels vous appartenez, tandis qu'en bas se trouvent ceux auxquels vous n'appartenez pas. Les forfaits Business et Entreprise permettent la création d'espaces d’équipe privés, accessibles uniquement aux membres et propriétaires, qui peuvent inviter d'autres personnes. Pour créer un nouvel espace d’équipe, faites défiler jusqu'à la section « Espaces d’équipe » et cliquez sur le bouton « + ». Vous pouvez également dupliquer un espace d’équipe existant via l’option « Dupliquer l’espace d’équipe ». En créant un espace d’équipe, vous devenez automatiquement son propriétaire et pouvez ajouter des membres en accédant aux paramètres de l’espace d’équipe. Pour rejoindre un espace d’équipe ouvert, il suffit de cliquer dessus, tandis que pour un espace fermé, vous devez demander l’accès. Pour quitter un espace d’équipe, passez votre curseur sur son nom et sélectionnez l’option « Quitter l’espace d’équipe ». Ces fonctionnalités facilitent la gestion des espaces d’équipe au sein de Notion."
+  },
+  {
+    "id": "doc_029",
+    "title": "Utiliser la recherche",
+    "section": "Navigation",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/search",
+    "text": "Pour rechercher un élément spécifique dans Notion, cliquez sur \"Rechercher\" en haut de la barre latérale ou utilisez les raccourcis cmd/ctrl + P ou cmd/ctrl + K. Saisissez votre terme de recherche dans la fenêtre qui s’affiche, en utilisant des guillemets pour rechercher une phrase exacte, par exemple \"mes projets\". La liste des pages récemment consultées s'affiche également pour un accès rapide. Des mentions telles que \"Les plus consultés\" ou \"Populaires cette semaine\" aident à identifier les résultats pertinents. Si votre espace de travail utilise l'IA de Notion, vous pouvez rechercher dans toutes vos applications connectées en sélectionnant \"Rechercher dans toutes les sources avec l’IA\". Cette option ouvre une page avec des résultats filtrables par source, titre ou auteur. Pour accéder rapidement aux contenus fréquents, saisissez des termes comme \"accueil\" ou \"paramètres\". Sur l'application de bureau, la recherche rapide permet d'effectuer des recherches sans changer de fenêtre, activée par un raccourci clavier ou via la barre des menus sur macOS et la barre des tâches sur Windows. La recherche rapide est activée par défaut, mais peut être désactivée dans les paramètres. Notion peut également être configuré pour s'ouvrir au démarrage de l'ordinateur."
+  },
+  {
+    "id": "doc_030",
+    "title": "Accueil et Mes tâches",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/home-and-my-tasks",
+    "text": "La page d’accueil de Notion, accessible uniquement sur l’application de bureau et le site Web, offre plusieurs fonctionnalités essentielles. Elle permet aux utilisateurs de consulter les 20 dernières pages visitées, de créer et d’utiliser des raccourcis pour effectuer rapidement des actions, de connecter leur calendrier pour visualiser les événements à venir, et de gérer toutes leurs tâches. Pour créer un raccourci, il suffit d’accéder à la page d’accueil, de sélectionner l’option correspondante, de nommer le raccourci et de définir l’action souhaitée, avec la possibilité d’ajouter d’autres actions avant de valider. Les utilisateurs peuvent également modifier ou supprimer des raccourcis en survolant ceux-ci et en sélectionnant les options appropriées. En ce qui concerne la gestion des événements, le widget « Prochains événements » permet de consulter l’emploi du temps, de participer à des réunions et d’accéder à la documentation liée. Pour configurer ce widget, il est nécessaire de se connecter à Notion Calendar, surtout si l’on utilise un espace de travail nouveau ou différent. La personnalisation du widget permet de choisir les calendriers à afficher, le nombre de jours d’événements à inclure, et d’activer ou désactiver l’affichage des événements sur la journée complète."
+  },
+  {
+    "id": "doc_031",
+    "title": "Espaces de travail sur mobile",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/workspaces-on-mobile",
+    "text": "En bas de l'application mobile Notion, une barre de navigation permet d'accéder facilement aux différentes sections. En appuyant sur l'icône 🏠, les utilisateurs peuvent consulter les sections Partagé, Privé et Favoris, similaires à celles de la version bureau. L'icône 🔍 permet de rechercher dans l'espace de travail, tandis que 📥 donne accès à la boîte de réception et 📝 permet de créer une nouvelle page. Pour les utilisateurs faisant partie d'un espace de travail collaboratif, une section Espaces d’équipe est disponible, offrant des lieux personnalisables pour l'organisation des équipes. Les pages imbriquées peuvent être consultées via un menu dépliant à côté de chaque page dans l'onglet 🏠, et les différentes vues des bases de données sont également accessibles. Le sélecteur d’espace de travail en haut de l'onglet permet de changer d'espace, d'en créer un nouveau ou de se déconnecter. Lors de la création de contenu, une barre d'outils apparaît au-dessus du clavier, offrant des options pour ajouter divers types de blocs, mentionner des personnes, insérer des images, et plus encore. Le menu « ••• » propose des options supplémentaires telles que la personnalisation de la page, le verrouillage des modifications, la consultation de l'historique et l'exportation des pages dans différents formats."
+  },
+  {
+    "id": "doc_032",
+    "title": "Supprimer un espace de travail",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/delete-a-workspace",
+    "text": "La suppression d'un espace de travail dans Notion est une action définitive qui entraîne la perte de tout le contenu qu'il contient, y compris les pages privées. Une fois l'espace de travail supprimé, il n'est plus possible d'accéder à ce contenu. Il est donc conseillé d'exporter les données que vous souhaitez conserver avant de procéder à la suppression. Cette action affecte tous les membres de l'espace de travail, qui perdront également l'accès à celui-ci et à son contenu. Après la suppression, vous serez redirigé vers un autre espace de travail auquel vous avez accès, ou vers la page d'inscription à Notion si vous n'avez pas d'autres espaces disponibles. Pour effectuer la suppression, il faut d'abord cliquer sur \"Paramètres\" dans la barre latérale, puis sélectionner \"Général\" sous la section \"Espace de travail\". En faisant défiler l'écran jusqu'à la \"Zone dangereuse\", vous trouverez l'option \"Supprimer l’intégralité de l’espace de travail\". Il est nécessaire de saisir le nom de l'espace de travail pour confirmer la suppression. Cette procédure garantit que l'utilisateur est conscient de la gravité de l'action avant de la finaliser."
+  },
+  {
+    "id": "doc_033",
+    "title": "Mise en forme de votre page",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/columns-headings-and-dividers",
+    "text": "Certaines informations peuvent être mieux présentées en colonnes dans Notion. Pour créer des colonnes, il suffit de glisser-déposer les blocs côte à côte en utilisant le symbole de poignée dans la marge de gauche. Les lignes bleues qui apparaissent aident à positionner les blocs correctement. Il est possible de créer plusieurs colonnes sur toute la largeur de la page, bien que cette fonctionnalité ne soit pas disponible sur mobile, où le contenu des colonnes s'affiche l'une sous l'autre. Pour supprimer une colonne, il faut faire glisser le contenu d'une colonne adjacente pour le repositionner, ou supprimer directement une colonne vide via le menu. La largeur des colonnes peut être ajustée en glissant sur leurs bords. En ce qui concerne les tableaux, ils permettent d'organiser des données de manière structurée. Pour en créer un, il suffit de cliquer sur le symbole \"+\" ou d'utiliser la commande \"/tableau\". Les utilisateurs peuvent ajouter des lignes et des colonnes, ajuster la taille du tableau, et créer des en-têtes. Cependant, il est à noter que le collage de contenu dans plusieurs cellules simultanément n'est pas encore pris en charge. Enfin, un tableau peut être converti en base de données pour bénéficier de fonctionnalités avancées comme le filtrage et le tri."
+  },
+  {
+    "id": "doc_034",
+    "title": "Images, fichiers et médias",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/images-files-and-media",
+    "text": "Si vous utilisez Notion avec un accès gratuit, la taille maximale des fichiers importés est de 5 Mo. Pour les utilisateurs ayant un abonnement payant, les fichiers PDF peuvent atteindre 20 Mo, tandis que les images (PNG, JPG) sont limitées à 5 Mo. En cas d'erreur lors du téléchargement d'une image trop lourde, il est conseillé d'essayer de l'importer sous forme de fichier. Notion permet également l'importation de fichiers via son API de chargement. Les types de fichiers supportés incluent HEIC, ICO, JPEG, JPG, PNG, TIF, TIFF, GIF, SVG, PDF, WEBP, MP3, MP4, WAV et OGG, bien que certains fichiers MP4 puissent poser des problèmes en raison de composants non pris en charge. Les utilisateurs peuvent intégrer des vidéos provenant de plateformes comme YouTube et Vimeo. Pour ajouter des images, il suffit de les glisser-déposer dans une page ou d'utiliser la commande /image. Les images peuvent également être liées à des URL, permettant aux utilisateurs de naviguer vers d'autres pages. Dans les bases de données, les images peuvent être ajoutées en tant que propriétés de fichiers et médias, et affichées sous forme de galerie. Les utilisateurs peuvent également importer des fichiers pour les stocker et les partager facilement dans Notion."
+  },
+  {
+    "id": "doc_035",
+    "title": "Wikis et pages vérifiées",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/wikis-and-verified-pages",
+    "text": "Les wikis dans Notion permettent de centraliser et de gérer efficacement les connaissances. Pour créer un wiki, il faut transformer une page existante en sélectionnant l'option \"Convertir en wiki\" dans le menu. Les wikis incluent trois vues par défaut : la vue Accueil, qui affiche toutes les pages et permet d'ajouter des blocs personnalisés ; la vue Toutes les pages, qui présente une base de données de toutes les pages ; et la vue Pages dont je suis propriétaire, qui montre uniquement les pages que l'utilisateur possède. Il est possible de créer des vues supplémentaires, comme un calendrier ou une liste. Si vous souhaitez annuler la conversion d'une page en wiki, il suffit de sélectionner \"Annuler la conversion en wiki\". En outre, Notion permet de vérifier le contenu des pages pour indiquer qu'elles sont à jour. Les pages vérifiées affichent une coche bleue à côté de leur nom et une notification est envoyée à leur propriétaire lorsque la vérification expire. Pour vérifier une page dans un wiki, il faut accéder à la section Vérification et choisir entre une vérification à durée déterminée ou indéterminée. Cette fonctionnalité est également disponible pour des pages individuelles, mais uniquement avec les forfaits Business ou Enterprise."
+  },
+  {
+    "id": "doc_036",
+    "title": "Déplacer et dupliquer du contenu",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/transfer-content-to-another-account",
+    "text": "Lorsque vous déplacez du contenu dans Notion, celui-ci est dupliqué dans l'espace de travail de destination, sans synchronisation avec le contenu d'origine. Les modifications apportées au contenu dupliqué n'affectent pas le contenu original. Il est important de noter que certains éléments, tels que les liens, les relations et les autorisations, peuvent ne pas fonctionner comme prévu dans l'environnement d'origine après duplication. Il est donc conseillé de conserver le contenu d'origine jusqu'à ce que le comportement du contenu dupliqué soit conforme aux attentes. Pour dupliquer du contenu entre plusieurs espaces de travail associés à votre compte, créez une nouvelle page dans l'espace de travail source, glissez-y les pages à dupliquer, puis utilisez l'option \"Déplacer vers\" pour sélectionner l'espace de travail de destination. Pour dupliquer du contenu entre différents comptes Notion, connectez-vous au compte source, créez une nouvelle page, glissez-y le contenu à dupliquer, puis partagez cette page avec l'adresse e-mail du compte de destination en veillant à donner un accès complet. Enfin, connectez-vous au compte de destination, sélectionnez les pages partagées, et utilisez l'option \"Déplacer vers\" pour finaliser la duplication."
+  },
+  {
+    "id": "doc_037",
+    "title": "Supprimer et restaurer du contenu",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/duplicate-delete-and-restore-content",
+    "text": "Pour supprimer des blocs dans Notion, plusieurs méthodes sont disponibles. En survolant une ligne ou un contenu, l'icône de poignée ⋮⋮ apparaît dans la marge de gauche, permettant d'accéder à l'option Supprimer. Pour les images et autres contenus intégrés, l'icône ••• se montre en haut à droite, offrant également la possibilité de supprimer. Sur mobile, un symbole similaire est visible dans le coin des blocs, et en appuyant dessus, un menu avec l'option Supprimer s'ouvre. Pour le texte, il faut appuyer sur ••• dans la barre d'outils au-dessus du clavier. Une autre méthode consiste à faire un clic droit sur le contenu pour afficher le menu de suppression. Il est également possible d'utiliser un raccourci clavier en sélectionnant un bloc et en appuyant sur la touche supprimer. Pour les pages, la suppression peut se faire en survolant la barre latérale, en cliquant sur ••• ou en faisant glisser la page vers la Corbeille. Les pages supprimées restent dans la Corbeille pendant 30 jours avant d'être définitivement effacées. Les utilisateurs peuvent rechercher et filtrer les pages supprimées dans la Corbeille, mais celles-ci ne peuvent pas être modifiées tant qu'elles n'ont pas été restaurées."
+  },
+  {
+    "id": "doc_038",
+    "title": "Blocs synchronisés",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/synced-blocks",
+    "text": "Avec les blocs synchronisés dans Notion, il est possible d'utiliser le même bloc et son contenu à plusieurs endroits, que ce soit sur une page ou dans un espace de travail. Cela permet, par exemple, d'intégrer l'énoncé de mission d'une équipe dans différents documents, comme un document d'intégration ou des notes de réunion. Si cet énoncé change, il suffit de le modifier à un seul endroit pour que les modifications soient automatiquement mises à jour partout où il est synchronisé. Pour synchroniser des blocs, il faut sélectionner les blocs souhaités, cliquer sur l'option pour les transformer en bloc synchronisé, puis les copier et les coller à l'endroit désiré. Il est important de noter que si un utilisateur n'a pas accès à la page d'origine, il ne pourra pas voir le contenu du bloc synchronisé. Les modifications apportées à un bloc synchronisé sont répercutées sur toutes ses instances, et une bordure indique qu'il s'agit d'un bloc synchronisé. Pour désynchroniser un bloc, il suffit de sélectionner l'option appropriée, ce qui rend chaque bloc indépendant. Les utilisateurs doivent avoir les droits de modification sur le bloc d'origine pour pouvoir modifier une copie synchronisée."
+  },
+  {
+    "id": "doc_039",
+    "title": "Blocs de code",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/code-blocks",
+    "text": "Sur Notion, il est possible d'ajouter un bloc de code sur n'importe quelle page pour afficher du code de programmation de manière distincte. Pour créer ce bloc, il suffit de cliquer sur le symbole \"+\" qui apparaît à gauche d'une nouvelle ligne, de sélectionner l'option \"Code\" et d'appuyer sur \"Entrée\". Une autre méthode consiste à taper \"/code\" et à valider avec \"Entrée\". Une fois le bloc créé, l'utilisateur peut y écrire ou coller du code provenant d'une autre source. Notion prend en charge la coloration syntaxique pour plusieurs langages de programmation. Pour modifier le langage affiché, il faut cliquer sur le nom du langage en haut à gauche du bloc, entrer le nouveau langage souhaité et valider. Pour éviter le défilement horizontal et afficher tout le code dans la zone visible, il est possible d'activer l'option \"Renvoyer le code à la ligne\" en survolant le bloc et en utilisant les options disponibles. De plus, les utilisateurs peuvent copier le bloc de code ou ajouter une légende explicative en utilisant les boutons correspondants qui apparaissent en survolant le bloc. Toutefois, certaines options ne sont pas accessibles aux utilisateurs ayant un niveau d'autorisation limité."
+  },
+  {
+    "id": "doc_040",
+    "title": "Équations mathématiques",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/math-equations",
+    "text": "Notion utilise la bibliothèque KaTeX pour afficher des équations mathématiques, prenant en charge un large éventail de fonctions LaTeX. Pour ajouter une équation en tant que bloc, il suffit de cliquer sur le symbole + à gauche d'une nouvelle ligne, de sélectionner \"Équation - Bloc entier\" ou de taper /math et d'appuyer sur Entrée. Une fois le bloc créé, on peut y entrer ou coller l'équation, ou utiliser la commande cmd/ctrl + Entrée. Pour insérer une équation à l'intérieur d'un bloc, plusieurs méthodes sont disponibles : en utilisant deux signes dollar pour délimiter l'équation, en utilisant le raccourci ctrl/cmd + Maj + E pour ouvrir une zone de saisie, ou en sélectionnant le texte et en cliquant sur le bouton √x dans le menu de mise en forme. Les équations peuvent être modifiées en cliquant dessus, ce qui ouvre la zone de saisie pour appliquer les modifications. Notion prend en charge une large gamme de symboles et d'opérations via KaTeX, bien que certaines notations LaTeX puissent ne pas être entièrement supportées. Pour ceux qui ne connaissent pas LaTeX, des ressources comme Detexify peuvent aider à identifier les symboles et leurs codes correspondants."
+  },
+  {
+    "id": "doc_043",
+    "title": "Propriétés des bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/database-properties",
+    "text": "Notion propose une variété de types de propriétés pour ses bases de données, chacune ayant des fonctions spécifiques. La propriété Texte permet d’ajouter du contenu formaté, idéale pour des résumés ou des descriptions. La propriété Nombre affiche des valeurs numériques, pouvant être formatées en devise ou en barres de progression, ce qui est utile pour le suivi de comptes ou de prix. La propriété Sélection permet de choisir une option dans une liste, facilitant la catégorisation, tandis que l'État aide à suivre la progression d'un élément avec des étiquettes comme À faire, En cours ou Terminé. Pour une sélection multiple, la propriété Sélection multiple permet de choisir plusieurs options. La propriété Date affiche des dates ou des plages de dates, utile pour les échéances. Les propriétés Formule, Relation et Agrégation permettent respectivement d'effectuer des calculs, de connecter des bases de données et de synthétiser des données interconnectées. D'autres propriétés incluent Personne pour mentionner des membres d'équipe, Fichier pour télécharger des documents, et Case à cocher pour un suivi léger. Des propriétés spécifiques comme URL, E-mail et Téléphone facilitent l'accès à des liens ou contacts. Enfin, des propriétés automatiques comme Date de création et Dernière modification enregistrent des informations essentielles sur les éléments."
+  },
+  {
+    "id": "doc_044",
+    "title": "Paramètres de la base de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/customize-your-database",
+    "text": "Pour ajuster les paramètres d'une base de données dans Notion, il est nécessaire de disposer d'un accès en écriture ou supérieur. Les modifications apportées aux paramètres s'appliquent à l'ensemble de la base de données et non à des vues spécifiques. Pour accéder aux paramètres, il faut ouvrir le menu \"Paramètres\" en haut de la base de données. Parmi les options disponibles, on trouve la possibilité de verrouiller la base, ce qui permet aux utilisateurs de saisir des données sans pouvoir modifier les vues ou les propriétés. Il est également possible de modifier les propriétés en recherchant, créant ou ajustant des propriétés spécifiques, ainsi que de gérer les automatisations de la base de données. Les utilisateurs peuvent activer ou désactiver les sous-éléments et les dépendances, ainsi que les sprints si la base de données concerne des tâches. La connexion d'applications spécifiques à la base de données est également envisageable. De plus, il est possible de personnaliser la mise en page pour qu'elle s'applique à toutes les pages de la base de données, rendant chaque base unique. Enfin, les utilisateurs peuvent transformer leur base de données en base de données de tâches ou vice versa, selon leurs besoins."
+  },
+  {
+    "id": "doc_045",
+    "title": "Modèles de bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/database-templates",
+    "text": "Pour créer un modèle dans une base de données Notion, il faut cliquer sur la flèche déroulante à côté de \"Nouveau\" en haut à droite, puis sélectionner \"+ Nouveau modèle\". Un bandeau rouge apparaîtra pour indiquer la base de données concernée. Le nom de la page deviendra le nom du modèle, par exemple \"Bug P1\". Dans ce modèle, il est possible de définir des propriétés, comme attribuer automatiquement \"P1\" à la propriété \"Priorité\" et \"Fig\" à \"Chef de produit\". Les modèles peuvent inclure divers types de contenu, tels que des images ou des sous-pages, et les pages créées à partir de ce modèle en hériteront. Pour utiliser un modèle, il suffit de créer une nouvelle page dans la base de données et de choisir un modèle dans la liste ou via le menu déroulant à côté du bouton \"Nouveau\". Les modifications apportées à une page créée ne modifieront pas le modèle d'origine. Les modèles récurrents permettent de générer automatiquement des copies d'un modèle à intervalles réguliers. Pour cela, il faut accéder aux options du modèle et choisir la fréquence de répétition. Il est également possible d'imbriquer des bases de données dans des modèles récurrents, sous certaines conditions, notamment l'impossibilité d'imbriquer un modèle dans un modèle qui se répète quotidiennement."
+  },
+  {
+    "id": "doc_046",
+    "title": "Sous-éléments et dépendances",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/tasks-and-dependencies",
+    "text": "Les bases de données de tâches dans Notion permettent de gérer toutes vos tâches de manière centralisée. Les sous-éléments sont une fonctionnalité clé qui permet de décomposer les tâches en éléments plus petits, facilitant leur évaluation, attribution et suivi. Pour activer les sous-éléments, il suffit d'accéder au menu Paramètres de la base de données, de sélectionner \"Plus de paramètres\" puis \"Sous-éléments\" et d'activer l'option correspondante. Les sous-éléments peuvent être affichés de différentes manières selon la vue choisie. Par exemple, dans les vues Table, Liste et Chronologique, vous pouvez opter pour une présentation imbriquée ou une liste à plat. Pour les vues Tableau, Calendrier et Galerie, les sous-éléments peuvent être affichés sur la carte de l'élément parent ou séparément. Les filtres appliqués à la base de données influencent également l'affichage des sous-éléments, avec des options pour afficher uniquement les parents, les parents et sous-éléments, ou uniquement les sous-éléments. Enfin, lors du déplacement d'un élément avec des sous-éléments, ceux-ci sont activés dans la base de données cible si cela n'a pas encore été fait."
+  },
+  {
+    "id": "doc_047",
+    "title": "Bases de données Tâches et Sprints",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/sprints",
+    "text": "Les bases de données de tâches et les sprints dans Notion facilitent la gestion des travaux à échéance. Pour créer une base de données de tâches, il est nécessaire d'inclure des propriétés telles que l'état, la personne assignée et la date d'échéance. Pour transformer une base de données existante en base de données de tâches, il faut accéder au menu Paramètres, sélectionner Plus de paramètres, puis choisir Transformer en Tâches. Il est possible de créer les propriétés requises si elles ne sont pas déjà présentes. Une fois la transformation effectuée, toutes les tâches attribuées apparaîtront dans le widget « Mes tâches », qui centralise le suivi des tâches de l'espace de travail. Si vous souhaitez revenir à une base de données classique, il suffit de suivre un processus similaire en sélectionnant Annuler la base de données Tâches. L'ajout d'un identifiant unique à chaque tâche permet une meilleure organisation. Pour cela, il faut cliquer sur le bouton + pour ajouter la propriété Identifiant, avec la possibilité d'ajouter un préfixe. Les pages avec cette propriété sont accessibles via une URL spéciale. Il est essentiel que les identifiants uniques aient un préfixe pour que les URL fonctionnent correctement."
+  },
+  {
+    "id": "doc_048",
+    "title": "Sources de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/data-sources-and-linked-databases",
+    "text": "Chaque base de données dans Notion est constituée d'au moins une source de données, qui regroupe un ensemble de pages. Par exemple, une base de données Tâches contient plusieurs pages de tâches. Lors de la création d'une base de données, les pages que vous y ajoutez forment sa source de données, mais il est également possible de lier une source de données existante pour afficher ses pages. Les applications pratiques d'une base de données avec plusieurs sources incluent la gestion de la relation client (CRM), la gestion de projet et le recrutement, où toutes les informations pertinentes peuvent être centralisées. Pour créer une nouvelle base de données avec une source de données, il suffit de créer une nouvelle page et de sélectionner l'option appropriée dans le menu. Il est également possible d'utiliser l'intelligence artificielle de Notion ou des modèles pour faciliter cette création. Pour lier une base de données à une source de données existante, la procédure est similaire. Il est important de noter que les niveaux d'accès des sources de données liées respectent ceux de la base de données d'origine, et seuls les utilisateurs ayant un accès de modification peuvent déplacer les sources de données. Une base de données peut ainsi regrouper plusieurs sources, offrant une flexibilité dans l'organisation des informations."
+  },
+  {
+    "id": "doc_049",
+    "title": "Optimiser les temps de chargement et les performances des bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/optimize-database-load-times-and-performance",
+    "text": "Nous cherchons constamment à améliorer votre expérience sur Notion et apprécions vos retours. Plusieurs facteurs peuvent entraîner des ralentissements dans vos bases de données. Un grand nombre de pages dans une base de données peut allonger son temps de chargement. De même, le nombre de propriétés visibles influence également la vitesse. Les tris et filtres complexes, notamment ceux basés sur des propriétés de titre, de texte ou d’agrégation, peuvent prolonger les délais de chargement. Pour optimiser la performance, il est conseillé d’éviter d’intégrer des bases de données dans les pages les plus visitées, surtout si votre espace de travail est volumineux. Une bonne pratique consiste à héberger chaque base de données sur une page distincte avant de les intégrer dans une page unique via une vue liée. Cela permet d’afficher une seule vue à la fois, améliorant ainsi les performances. Il est également recommandé d'éviter les chaînes de référence complexes et de limiter l'utilisation de filtres et tris basés sur des formules. Privilégiez des filtres simples pour améliorer la vitesse. Masquer les propriétés moins importantes et supprimer les pages non utilisées sont d'autres stratégies efficaces pour optimiser le chargement de vos bases de données."
+  },
+  {
+    "id": "doc_050",
+    "title": "Vue Table",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/tables",
+    "text": "Pour créer une vue Table dans Notion, commencez par créer une page dans votre espace de travail. Sous la section Premiers pas, cliquez sur l'option Table ou, pour une galerie intégrée, tapez /table sur n'importe quelle page et appuyez sur Entrée. Pour ajouter une vue Table à une base de données existante, cliquez sur le symbole + à côté du nom de la base de données ou de la vue actuelle, puis sélectionnez Table dans le menu déroulant. Il est également possible de créer des tableaux pour afficher du texte brut sans les fonctionnalités de base de données. Pour modifier en masse plusieurs lignes, survolez une ligne et cochez la case qui apparaît, ou cochez la case à côté de la propriété Nom pour sélectionner toutes les lignes. Pour réorganiser une table, utilisez le glisser-déposer pour déplacer les lignes et les colonnes. Vous pouvez également redimensionner les colonnes en faisant glisser leur extrémité. Pour afficher le contenu des cellules sur plusieurs lignes, activez le retour à la ligne automatique dans le menu des propriétés. Enfin, des calculs peuvent être effectués sur chaque colonne pour obtenir des informations sur les données, comme le nombre total de lignes ou le nombre de valeurs uniques."
+  },
+  {
+    "id": "doc_051",
+    "title": "Vue Tableau",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/boards",
+    "text": "La vue tableau dans Notion permet de regrouper les pages d'une base de données selon une propriété spécifique, offrant ainsi une flexibilité d'affichage selon les besoins de l'utilisateur. Contrairement aux tableaux kanban qui se concentrent sur l'état des tâches, les vues tableau peuvent être organisées par état, responsable, priorité, entre autres. Pour créer un tableau, il suffit de créer une page dans l'espace de travail, puis de sélectionner l'option tableau dans le menu. Il est également possible d'ajouter une vue tableau à une base de données existante en cliquant sur le symbole \"+\" à côté du nom de la base de données et en choisissant tableau dans le menu déroulant. Par défaut, les éléments seront regroupés par une propriété d'état, mais cela peut être modifié. Pour changer le regroupement, il faut accéder aux paramètres de la base de données et sélectionner la propriété souhaitée. Si une propriété nécessaire n'existe pas, il est possible d'en créer une nouvelle, par exemple pour la priorité des tâches. De plus, les étiquettes des groupes peuvent être personnalisées en modifiant la propriété correspondante dans les paramètres. Ces fonctionnalités permettent une gestion efficace et personnalisée des données dans Notion."
+  },
+  {
+    "id": "doc_052",
+    "title": "Vue « chronologie »",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/timelines",
+    "text": "Les chronologies dans Notion permettent de visualiser l'avancement des projets au fil du temps, facilitant ainsi le suivi des événements en lien avec d'autres rendez-vous et projets. Pour créer une chronologie, il suffit de créer une page dans l'espace de travail, puis de sélectionner l'option Chronologie sous le menu Premiers pas. Il est également possible d'intégrer une chronologie en tapant \"Vue /chronologie\" sur n'importe quelle page. Pour ajouter une vue chronologie à une base de données existante, il faut cliquer sur \"+\" à côté du nom de la base de données et choisir Chronologie dans le menu déroulant. Il est important de noter que les chronologies nécessitent au moins une propriété de date avec un intervalle de temps pour fonctionner. La personnalisation de la chronologie est possible, notamment en ajustant l'échelle de temps, qui peut varier de quelques heures à plusieurs années. En survolant les projets, il est possible d'ajuster leur durée en glissant les extrémités. De plus, des flèches indiquent la présence de projets adjacents ou dépassant l'affichage. Enfin, il est possible de revenir à la date actuelle et d'afficher ou masquer une table des projets sur le côté gauche de la chronologie."
+  },
+  {
+    "id": "doc_053",
+    "title": "Vue « calendrier »",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/calendars",
+    "text": "Les calendriers dans Notion permettent de visualiser les dates des éléments d'une base de données, à condition que celle-ci contienne une propriété de type Date. Pour intégrer votre base de données à Notion Calendar et suivre vos événements avec d'autres rendez-vous, il suffit de créer une page dans votre espace de travail, d'accéder à la section \"Premiers pas\", puis de sélectionner \"Calendrier\". Pour créer un calendrier intégré, il est possible de taper \"Vue calendrier\" sur n'importe quelle page. Pour ajouter une vue calendrier à une base de données existante, il faut cliquer sur le symbole \"+\" à côté du nom de la base de données et choisir \"Calendrier\" dans le menu déroulant. Les utilisateurs peuvent personnaliser leur calendrier en modifiant les propriétés et l'apparence, notamment en optant pour une vue hebdomadaire. Pour naviguer entre les mois, il est possible d'utiliser les flèches situées en haut à droite ou de faire défiler la page. Les cartes du calendrier peuvent être réorganisées par glisser-déposer, et il est également possible d'étirer les cartes pour couvrir plusieurs jours. Enfin, les utilisateurs peuvent choisir les propriétés à afficher sur les cartes, comme une date d'échéance ou un chef de projet."
+  },
+  {
+    "id": "doc_054",
+    "title": "Vue « liste »",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/lists",
+    "text": "Pour créer une liste dans Notion, commencez par ajouter une page dans votre espace de travail. Sous l'onglet \"Premiers pas\", cliquez sur \"•••\" puis sélectionnez \"Liste\". Si vous préférez une liste intégrée, tapez \"Vue de /liste\" sur n'importe quelle page et appuyez sur \"Entrée\". Pour ajouter une vue \"liste\" à une base de données existante, cliquez sur \"+\" à côté du nom de la base de données ou de la vue actuelle, puis choisissez \"Liste\" dans le menu déroulant. Pour personnaliser une liste, accédez aux paramètres en haut à droite de la base de données et modifiez la visibilité des propriétés. Vous pouvez afficher ou masquer des propriétés en cliquant sur l'icône correspondante et réorganiser leur ordre d'affichage. Des exemples d'utilisation de la vue \"liste\" incluent les notes de réunion et les brouillons. Pour transformer une base de données pleine page en base de données intégrée, faites-la glisser vers une autre page, puis sélectionnez \"Transformer en base de données intégrée\" dans le menu. Inversement, pour créer une base de données pleine page à partir d'une intégrée, faites glisser le bloc dans la barre latérale. Enfin, pour ouvrir les pages de base de données en plein écran par défaut, modifiez les paramètres d'ouverture dans le menu de la base de données."
+  },
+  {
+    "id": "doc_055",
+    "title": "Gallery view",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/galleries",
+    "text": "Pour ajouter une galerie dans Notion, commencez par créer une nouvelle page dans votre espace de travail. Sous l'option \"Get started with\", cliquez sur le symbole \"•••\" puis sélectionnez \"Gallery\". Pour une galerie intégrée, tapez \"/Gallery view\" sur n'importe quelle page et appuyez sur \"Entrée\". Il est également possible d'ajouter une galerie à une base de données existante en cliquant sur le \"+\" à côté du nom de la base de données et en choisissant \"Gallery\" dans le menu déroulant. Pour personnaliser votre galerie, ouvrez le menu des paramètres en haut à droite de votre base de données et accédez à \"Layout\". Vous pouvez modifier l'aperçu des cartes en choisissant entre \"Page cover\" ou \"Page content\". Si votre base de données contient des fichiers multimédias, ces images peuvent également être affichées. Vous pouvez réorganiser les cartes en les faisant glisser et ajuster leur taille via le menu des paramètres. De plus, il est possible de masquer le nom d'une carte pour afficher uniquement l'image. Pour gérer la visibilité des propriétés, utilisez le menu \"Property visibility\" pour afficher ou masquer les propriétés et les réorganiser selon vos préférences. Des exemples d'utilisation incluent des galeries de modèles, des recueils de recettes et des tableaux d'inspiration."
+  },
+  {
+    "id": "doc_056",
+    "title": "Dashboards view",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/dashboards",
+    "text": "Les vues de tableau de bord transforment toute base de données en un centre de contrôle visuel. Plutôt que de naviguer entre plusieurs vues, il est possible d'organiser des widgets tels que des tableaux, des tableaux Kanban, des calendriers, des graphiques et des chronologies dans une seule mise en page. Ces tableaux de bord sont disponibles dans les plans Business et Enterprise et sont particulièrement adaptés pour des rapports de statut d'équipe, des aperçus d'incidents, des résumés de ventes et des performances de contenu. Pour créer une vue de tableau de bord, il suffit d'ouvrir une base de données, de sélectionner l'option pour ajouter une nouvelle vue, puis de choisir \"Tableau de bord\". Il est également possible de créer une vue via une commande slash. Notion Agent peut être utilisé pour générer un premier brouillon de tableau de bord, facilitant ainsi le choix des widgets à inclure. Les widgets constituent les éléments essentiels des tableaux de bord, affichant des vues de base de données. Il est possible d'ajouter jusqu'à 12 widgets au total, avec un maximum de 4 widgets par rangée. Les utilisateurs peuvent gérer et organiser ces widgets en mode Édition, en les déplaçant, en les dupliquant ou en les supprimant selon leurs besoins."
+  },
+  {
+    "id": "doc_057",
+    "title": "Vue « Graphique »",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/charts",
+    "text": "Les membres de Notion ayant un abonnement payant peuvent créer un nombre illimité de graphiques, tandis que les utilisateurs gratuits peuvent essayer un graphique sans frais. Les graphiques dans Notion sont limités à 200 groupes et 50 sous-groupes, ce qui peut ralentir la mise à jour des graphiques pour les bases de données volumineuses. Pour afficher tous les éléments d'une base de données, il est nécessaire de modifier les paramètres pour les afficher sous forme de liste à plat. Pour créer un graphique, il faut utiliser la commande slash /graphique dans une page, puis choisir parmi les options disponibles, telles que graphique à barres verticales, horizontal, en lignes ou en anneau. Il est également possible d'ajouter une vue graphique à une base de données existante en sélectionnant l'option correspondante dans le menu. Les utilisateurs peuvent personnaliser leur graphique en modifiant le type via le menu Paramètres. Cependant, certaines limitations s'appliquent aux axes des graphiques, notamment l'impossibilité d'afficher certains types de données comme les rollups ou les formules complexes. Pour modifier les données, il est nécessaire d'utiliser une autre vue, car les entrées ne peuvent pas être modifiées directement depuis la vue graphique."
+  },
+  {
+    "id": "doc_058",
+    "title": "Formulaires",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/forms",
+    "text": "Les formulaires dans Notion facilitent la collecte d'informations, même auprès de personnes n'appartenant pas à votre espace de travail. Tous les membres, quel que soit leur forfait, peuvent créer et utiliser des formulaires, qui sont liés aux bases de données. Chaque question du formulaire correspond à une propriété de la base de données, permettant ainsi d'enregistrer les réponses et de les utiliser comme toute autre information dans Notion. Pour créer un formulaire, il faut utiliser la commande slash \"/formulaire\" dans une page. Une propriété \"Participant\" est automatiquement ajoutée pour recueillir les noms des participants, avec la possibilité d'anonymat via les paramètres de partage. Il est également possible de créer un formulaire à partir d'une base de données existante, à condition d'avoir un accès complet à celle-ci. Pour ce faire, il suffit de sélectionner \"Ajouter une vue\" dans la base de données et de choisir \"Formulaire\". La modification d'un formulaire nécessite un accès adéquat à la base de données. Notion propose également une logique conditionnelle pour personnaliser les questions, mais cette fonctionnalité est réservée aux forfaits Business et Enterprise. Enfin, l'éditeur de formulaires permet de personnaliser l'apparence du formulaire créé."
+  },
+  {
+    "id": "doc_059",
+    "title": "Identifiant unique",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/unique-id",
+    "text": "Un identifiant unique est une propriété essentielle dans Notion qui facilite la gestion des projets et l'organisation des tâches. En ajoutant cette propriété à une base de données, un identifiant est automatiquement généré pour chaque nouvel élément ainsi que pour ceux déjà existants. Pour intégrer cette fonctionnalité, il est recommandé de connecter GitHub à Notion. Pour ajouter un identifiant unique, il suffit de cliquer sur le bouton \"+\" en haut à droite d'une base de données, puis de sélectionner \"Identifiant\". Le préfixe de l'identifiant est généré automatiquement en fonction du nom de l'espace d'équipe et de la base de données, mais il peut être modifié à tout moment. Les pages disposant d'une propriété d'identifiant unique peuvent être accessibles via une URL spéciale qui inclut le numéro d'identifiant, tel que notion.so/TACHE-123. Il est important de noter que ces URL ne fonctionnent que si l'identifiant unique a un préfixe. Pour vérifier cela, il faut accéder à la propriété ID dans la base de données, sélectionner \"Modifier la propriété\" et s'assurer que le champ \"Préfixe\" est rempli. Les numéros d'identification commencent toujours à 1 et sont attribués à chaque page, y compris celles qui ont été supprimées, et ne changent jamais."
+  },
+  {
+    "id": "doc_060",
+    "title": "Vue Fil d’actualité",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/feeds",
+    "text": "La vue Fil d’actualité dans Notion permet d'afficher les pages d'une base de données sous forme de cartes empilées, semblable à un blog ou à un réseau social, facilitant ainsi la navigation et l'interaction avec le contenu d'équipe. Cette vue est particulièrement adaptée pour les mises à jour d'équipe, le suivi de l'avancement des projets ou d'autres communications internes. Elle transforme n'importe quelle base de données en un fil interactif, offrant aux utilisateurs la possibilité de faire défiler le contenu de manière fluide, de commenter les publications et de suivre les vues sur leurs propres contributions. Pour créer un fil d’actualité sur une nouvelle page, il suffit de saisir \"/Vue fil d’actualité\" et d'appuyer sur Entrée. Il est également possible d'ajouter cette vue à une base de données existante en cliquant sur le bouton \"+\" en haut à gauche, puis en sélectionnant \"Fil d’actualités\" dans le menu. Pour personnaliser les propriétés visibles dans le fil d’actualité, les utilisateurs peuvent accéder aux paramètres de la vue en cliquant sur l'icône correspondante dans la barre de menu, puis ajuster la visibilité des propriétés en cliquant sur l'icône appropriée. Cette flexibilité permet d'adapter l'affichage selon les besoins de l'équipe."
+  },
+  {
+    "id": "doc_061",
+    "title": "Mises en page",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/layouts",
+    "text": "Les mises en page dans Notion permettent de personnaliser l'organisation des propriétés au sein des pages d'une base de données, offrant ainsi une flexibilité selon l'utilisation de chaque page. Par exemple, les pages dédiées aux rapports marketing peuvent être structurées différemment de celles concernant les tâches d'équipe. Cette fonctionnalité est particulièrement utile pour maintenir une base de données claire et navigable, surtout lorsque de nombreuses propriétés sont présentes. Il est possible de mettre en avant certaines propriétés tout en cachant d'autres, en fonction des priorités de l'utilisateur ou de l'équipe. Pour configurer une mise en page, un accès en modification à la base de données est requis. Les mises en page s'appliquent à toutes les pages de la base de données et ne peuvent pas être restreintes à des pages ou vues spécifiques. Pour créer une mise en page, il faut ouvrir la base de données en tant que page entière, sélectionner l'option de personnalisation, et utiliser le bouton de prévisualisation pour visualiser les modifications. L'outil de mise en page comprend un titre, une zone principale pour les propriétés, un menu d'informations, et des paramètres pour personnaliser les titres et les propriétés épinglées. Les utilisateurs peuvent épingler jusqu'à quatre propriétés et gérer les liens entrants selon leurs préférences."
+  },
+  {
+    "id": "doc_062",
+    "title": "Vue Carte",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/maps",
+    "text": "La vue Carte dans Notion permet de visualiser les éléments d'une base de données sur une carte interactive, utile pour diverses applications comme la planification de voyages ou l'organisation de travaux sur le terrain. Pour utiliser cette fonctionnalité, il est nécessaire d'ajouter une propriété Lieu, qui peut être renseignée en accédant à votre position actuelle, en saisissant un nom de lieu ou une adresse. La recherche d'adresses repose sur un fournisseur tiers, ce qui peut affecter la qualité des résultats selon la région. Pour créer une propriété Lieu, il suffit d'ouvrir une base de données, de sélectionner \"Ajouter une propriété\" et de choisir \"Lieu\". Si une vue Carte est créée sans propriété Lieu, celle-ci sera générée automatiquement. Pour ajouter une vue Carte, il faut taper \"/carte\" dans une page ou survoler le nom d'une vue existante dans une base de données. Dans la vue Carte, jusqu'à 100 éléments peuvent être affichés, et il est possible de cliquer sur une épingle pour accéder à la page de base de données correspondante, ainsi que de filtrer et trier les propriétés Lieu par texte. En cas de problèmes d'affichage des épingles, il peut être nécessaire de vérifier les propriétés Lieu disponibles dans la base de données."
+  },
+  {
+    "id": "doc_063",
+    "title": "Gérer les membres et les invités",
+    "section": "Collaboration",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/add-members-admins-guests-and-groups",
+    "text": "Pour gérer les membres d'un espace de travail sur Notion, il existe plusieurs méthodes d'ajout. Les utilisateurs peuvent être ajoutés soit par leur adresse e-mail, soit via un lien d'invitation, ou encore par un domaine autorisé. Pour ajouter un membre par e-mail, il faut accéder aux paramètres, puis à l'onglet « Membres ». Il suffit de cliquer sur « Ajouter des membres », d'entrer l'adresse e-mail de la personne, de choisir son rôle (Propriétaire d’espace de travail, Administrateur d’utilisateurs ou Membre) et de cliquer sur « Inviter ». Les personnes invitées recevront un e-mail avec un lien pour rejoindre l'espace de travail. Pour l'ajout via un lien, il faut copier le lien secret et le partager. L'utilisateur qui clique sur ce lien pourra rejoindre automatiquement l'espace de travail en tant que membre payant. Si l'option de lien d'invitation n'est pas souhaitée, elle peut être désactivée. Pour les entreprises, il est possible d'autoriser l'inscription automatique de nouveaux membres en ajoutant des domaines de messagerie autorisés dans les paramètres. Cela permet aux utilisateurs de se connecter avec leur adresse e-mail professionnelle et de rejoindre directement l'espace de travail, entraînant une facturation pour chaque nouveau membre."
+  },
+  {
+    "id": "doc_064",
+    "title": "Travailler en équipe dans un espace de travail",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/collaborate-within-a-workspace",
+    "text": "La collaboration en temps réel sur Notion permet aux membres d'une équipe de voir les modifications, commentaires et suggestions des autres utilisateurs instantanément. Les avatars des utilisateurs sont visibles à côté des blocs qu'ils consultent ou modifient, et plusieurs personnes peuvent travailler simultanément sur le même bloc sans que le contenu soit verrouillé. Pour naviguer facilement, il est conseillé de cliquer sur l'avatar d'un autre utilisateur pour accéder à la section qu'il est en train de lire. Pour éviter les modifications accidentelles, Notion propose des options de verrouillage pour les pages et les bases de données. En verrouillant une page, son contenu devient en lecture seule pour tous les utilisateurs, même pour celui qui a verrouillé la page. Cela se fait en cliquant sur l'icône en haut de la page et en activant l'option correspondante. De même, il est possible de verrouiller la structure d'une base de données tout en permettant la modification de son contenu. Pour déverrouiller une page ou une base de données, il suffit de sélectionner l'option de déverrouillage dans le menu. Ces fonctionnalités visent à garantir que toutes les modifications soient intentionnelles et à réduire le risque d'erreurs lors de la collaboration."
+  },
+  {
+    "id": "doc_065",
+    "title": "Boîte de réception et notifications",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/updates-and-notifications",
+    "text": "La boîte de réception de Notion, située en haut de la barre latérale, centralise les modifications apportées à votre espace de travail, organisées par page et par fil de commentaire. Elle affiche les notifications lorsque vous êtes @mentionné, qu'on répond à vos commentaires, que vous êtes ajouté à une base de données, ou qu'un rappel vous est attribué. De plus, vous recevez des notifications sur l'application de bureau 10 secondes après une mention, suivies d'une notification push sur mobile si vous ne consultez pas la première dans les 5 minutes. Les paramètres de notification peuvent être ajustés dans le menu dédié. Pour interagir avec votre boîte de réception, vous pouvez sélectionner une notification pour accéder directement à la page concernée, filtrer les notifications par statut (lues, non lues, archivées), et marquer les notifications comme lues ou non lues. Il est également possible d'archiver des notifications et de modifier les paramètres de notification pour chaque page. Dans l'application mobile, des gestes permettent de marquer les notifications comme lues ou de répondre rapidement. Ces fonctionnalités facilitent la gestion des tâches et des communications au sein de Notion, rendant l'expérience utilisateur plus fluide et organisée."
+  },
+  {
+    "id": "doc_066",
+    "title": "Commentaires, mentions et réactions",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/comments-mentions-and-reminders",
+    "text": "Pour gérer les discussions et les commentaires dans Notion, vous pouvez laisser des commentaires en haut d'une page pour initier une conversation. Pour cela, survolez le haut de la page et cliquez sur \"Ajouter un commentaire\". Vous pouvez mentionner des collègues avec @ pour les inviter à participer. Les commentaires peuvent être marqués comme résolus en cliquant sur l'icône ✔️. Pour modifier ou supprimer un commentaire, survolez-le et utilisez le menu qui apparaît. Les commentaires résolus peuvent être rouverts en cliquant sur l'icône 💬 en haut de la page et en filtrant par commentaires résolus. Il existe plusieurs méthodes pour commenter des parties spécifiques d'une page, notamment en sélectionnant un texte et en choisissant \"Commenter\" dans le menu, ou en utilisant le raccourci clavier cmd/ctrl + maj + M. Les commentaires apparaissent par défaut à droite du texte correspondant, et les fils de commentaires plus longs peuvent être développés. Pour personnaliser l'affichage des commentaires, cliquez sur \"Personnaliser la page\" et choisissez entre \"Par défaut\" ou \"Minimal\". Tous les commentaires d'une page sont accessibles via le panneau des commentaires, où vous pouvez voir, répondre, modifier ou résoudre les commentaires."
+  },
+  {
+    "id": "doc_067",
+    "title": "Rappels",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/reminders",
+    "text": "Lorsque vous ajoutez un rappel dans Notion, vous recevez une notification à la date et à l’heure spécifiées, ce qui est utile pour gérer des échéances de tâches, événements ou pages. Pour créer un rappel dans une page, il suffit de saisir @rappel suivi d’une date ou d’une heure, comme @rappel demain ou @rappel mercredi à 13 h, ce qui génère une étiquette bleue. En cliquant sur le rappel, vous pouvez ajuster la date, l’heure et le fuseau horaire. Les rappels deviennent rouges lorsqu’ils sont dus. Il est également possible de créer des rappels pour d’autres utilisateurs en mentionnant leur nom dans le même bloc que le rappel. Dans une base de données, un rappel peut être configuré si la propriété Date est présente. En cliquant sur cette propriété, vous pouvez définir les détails du rappel. Les notifications se manifestent par une pastille rouge dans la boîte de réception, des notifications push sur l’application de bureau et mobile, ainsi que par e-mail si Notion est fermé au moment du rappel. Actuellement, Notion ne permet pas de créer des rappels récurrents, mais cette fonctionnalité est envisagée pour l’avenir."
+  },
+  {
+    "id": "doc_068",
+    "title": "Modifications suggérées",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/suggested-edits",
+    "text": "Pour suggérer des modifications sur une page Notion, il est nécessaire d'avoir les autorisations adéquates, telles que l'accès \"Peut commenter\" ou un niveau supérieur. Si vous ne pouvez pas suggérer de modifications, cela peut être dû à un verrouillage de la page ou à un manque d'autorisation. Pour activer le mode suggestion, cliquez sur l'icône en haut de la page, puis sélectionnez \"Suggérer des modifications\". En mode suggestion, vous pouvez ajouter ou supprimer du texte, et vos suggestions apparaîtront sur le côté de la page. Il est possible d'ajouter des commentaires sous chaque suggestion. Pour quitter le mode de suggestion, cliquez sur \"X\" ou sélectionnez \"Arrêter\" dans le menu. Lorsque vous faites une suggestion, la personne concernée reçoit une notification. Actuellement, les suggestions peuvent porter sur du texte, des listes de tâches, des titres, des listes à puces et des blocs de listes numérotés, mais pas sur des bases de données intégrées ou des pages en mode aperçu. Si vous souhaitez empêcher d'autres utilisateurs de suggérer des modifications, vous pouvez verrouiller la page via le menu. En réponse aux suggestions, vous pouvez accepter ou rejeter les modifications, ou réagir avec un émoji et laisser des commentaires."
+  },
+  {
+    "id": "doc_069",
+    "title": "Données analytiques des pages",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/page-analytics",
+    "text": "Pour consulter les données analytiques d’une page sur Notion, il est nécessaire d'être le propriétaire ou l’éditeur de celle-ci. L'accès se fait en cliquant sur l'icône en haut de la page, puis en sélectionnant \"Dernières modifications et données analytiques\". Dans l'onglet \"Données analytiques\", il est possible de survoler une date sur le graphique pour visualiser le nombre total de vues ainsi que les vues uniques. De plus, cet onglet permet de voir qui a créé, modifié ou consulté la page, ainsi que les moments correspondants. Si un utilisateur souhaite ne pas être inclus dans les données analytiques, il a la possibilité de désactiver cette option. Pour désactiver complètement la participation aux données analytiques, il faut accéder aux \"Paramètres\" dans la barre latérale, puis aux \"Préférences\". Sous la section \"Confidentialité\", il suffit de choisir \"Ne pas enregistrer\" dans la liste déroulante à côté de \"Afficher l’historique de mes vues\". Pour désactiver la participation aux données analytiques d'une page spécifique, l'utilisateur doit suivre une procédure similaire en accédant à l'onglet \"Données analytiques\" et en ajustant les paramètres de son historique de vues."
+  },
+  {
+    "id": "doc_070",
+    "title": "Présentation des espaces d’équipe",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/intro-to-teamspaces",
+    "text": "Pour créer un nouvel espace d’équipe dans Notion, accédez à la section « Espaces d’équipe » de la barre latérale et cliquez sur le bouton +. Vous devrez attribuer un nom, une description et une icône à cet espace, puis choisir ses paramètres d’accès. Trois options sont disponibles : ouvert, où tous les membres peuvent rejoindre et consulter le contenu ; fermé, où seuls les membres invités peuvent y accéder ; et privé, réservé aux forfaits Business et Enterprise, où seuls les membres peuvent inviter d’autres personnes. Une fois ces informations renseignées, cliquez sur « Créer un espace d’équipe ». Il est également possible de transformer une page existante en espace d’équipe, à condition d’avoir un accès complet à cette page, qu’elle soit dans un espace d’équipe et qu’elle ne soit pas une page de base de données. Pour ce faire, survolez le nom de la page, cliquez sur le bouton ••• et choisissez « Convertir en espace d’équipe ». Pour ajouter des membres à un espace d’équipe, cliquez sur le bouton ••• à côté du nom de l’espace, sélectionnez « Ajouter des membres » et recherchez les personnes à ajouter. Les propriétaires ont un accès complet aux pages et paramètres, tandis que les membres ont un accès limité selon les critères définis. Vous pouvez également définir l’espace comme espace d’équipe par défaut pour ajouter automatiquement tous les membres de votre espace de travail."
+  },
+  {
+    "id": "doc_071",
+    "title": "Quels sont les différents types d’utilisateurs dans une espace de travail ?",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/whos-who-in-a-workspace",
+    "text": "Un espace de travail Notion peut accueillir différents types d'utilisateurs, notamment des membres, des membres restreints, des invités, des propriétaires d'espace de travail, des administrateurs d'utilisateurs et des propriétaires d'organisations, ces derniers étant disponibles uniquement dans le cadre du forfait Enterprise. Les membres sont des personnes appartenant à une organisation et peuvent lire, modifier et commenter des pages. Dans le forfait gratuit, un espace de travail peut avoir plusieurs membres, mais l'utilisation des blocs est limitée à 1 000. Pour un accès illimité, il est conseillé de ne conserver qu'un seul membre et d'ajouter d'autres utilisateurs en tant qu'invités. Les membres restreints, également réservés au forfait Enterprise, partagent certaines fonctionnalités avec les membres classiques, comme la création de pages privées et l'utilisation de l'IA de Notion, mais avec des limitations. Ils doivent être ajoutés à des espaces d'équipe et des pages spécifiques pour y accéder, ne peuvent pas créer d'espaces d'équipe et ne peuvent partager des pages qu'avec des membres ayant accès aux mêmes espaces. Les membres restreints dans les espaces d'équipe ne peuvent pas avoir un niveau d'accès inférieur à celui des membres classiques, et des contrôles spécifiques sont disponibles dans les paramètres pour gérer ces utilisateurs."
+  },
+  {
+    "id": "doc_072",
+    "title": "Annuaire",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/people-directory",
+    "text": "L’annuaire dans Notion est une base de données qui regroupe les profils de tous les membres actuels et anciens d'un espace de travail. Il sert de ressource centrale pour gérer les informations des utilisateurs et permet d'ajouter des propriétés selon les besoins de l'organisation. Les espaces de travail sous le forfait Enterprise avec SCIM configuré peuvent synchroniser automatiquement les données d'un fournisseur SIRH. Les invités ne sont pas inclus dans l'annuaire. Tous les espaces de travail, quel que soit leur forfait, disposent d'un annuaire, mais l'accès varie selon le rôle des utilisateurs. Les membres peuvent modifier leur propre profil et consulter l'annuaire, tandis que les propriétaires ont la possibilité de modifier l'intégralité de l'annuaire. Pour accéder à l'annuaire, il est possible d'utiliser la barre de recherche ou de naviguer dans les paramètres. Chaque utilisateur peut personnaliser sa page de profil, tandis que les propriétaires peuvent gérer l'ensemble des propriétés, y compris leur réorganisation et leur visibilité. Certaines propriétés de base, comme le nom et l'adresse e-mail, ne peuvent pas être supprimées. Les propriétaires peuvent également masquer des propriétés spécifiques sans les supprimer, ce qui permet de gérer la présentation des informations dans l'annuaire."
+  },
+  {
+    "id": "doc_073",
+    "title": "Profils de personnes",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/people-profiles",
+    "text": "Cette fonctionnalité est accessible aux membres de l’espace de travail sur tous les forfaits Notion, mais n'est pas disponible sur les appareils mobiles. Les profils permettent de mieux connaître les autres utilisateurs et de faciliter la collaboration. En survolant les noms des utilisateurs, il est possible de voir rapidement leurs activités, de les contacter ou de planifier des rendez-vous. Seuls les membres d’un espace de travail peuvent consulter ces informations, tandis que les invités n’y ont pas accès. Pour afficher une fiche pratique, il suffit de survoler un nom dans divers contextes, tels que les mentions, les commentaires ou les bases de données. Les utilisateurs avec le forfait Enterprise peuvent voir les rôles des membres dans les cartes au survol si les informations sont transférées via SCIM. En cliquant sur un nom, on accède à un profil complet qui inclut les principaux collaborateurs, les espaces d’équipe et l’activité récente de l’utilisateur. Pour mettre à jour son profil, il faut se rendre dans les paramètres. Les propriétaires d’espace de travail ont la possibilité de désactiver les cartes au survol et les profils pour tous les membres en modifiant les paramètres généraux."
+  },
+  {
+    "id": "doc_074",
+    "title": "Créer et gérer des groupes",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/create-and-manage-groups",
+    "text": "Vous pouvez gérer les permissions de manière granulaire dans Notion en créant des groupes au sein de votre espace de travail, sans avoir besoin de créer plusieurs espaces. Seuls les membres de l’espace de travail peuvent être ajoutés à ces groupes, et les propriétaires ou administrateurs peuvent les créer et les modifier. Pour ce faire, il suffit d'accéder aux paramètres, de sélectionner l'option appropriée pour les groupes, puis de créer un groupe en lui attribuant un nom et éventuellement une icône. Les membres peuvent être ajoutés ou supprimés facilement. Une fois les groupes créés, vous pouvez leur attribuer des niveaux d'accès spécifiques sur n'importe quelle page, tels que lecture, commentaire, édition ou partage. Pour ce faire, il suffit de cliquer sur le bouton de partage en haut de la page et de sélectionner le groupe souhaité, puis de choisir le niveau d'accès approprié. Les permissions appliquées à une page s'étendent également à ses sous-pages. En outre, vous avez la possibilité de partager des espaces d'équipe avec des groupes, ce qui permet aux équipes de s'organiser efficacement. Les espaces d'équipe sont personnalisables et peuvent être gérés de manière similaire aux groupes."
+  },
+  {
+    "id": "doc_075",
+    "title": "Importer des données dans Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/import-data-into-notion",
+    "text": "Les importations dans Notion sont accessibles sur les versions bureau et Web, mais pas sur mobile. Pour initier une importation, il faut se rendre dans les paramètres, puis dans l'option Importer, ou utiliser la commande / sur n'importe quelle page pour rechercher l'importateur souhaité. Notion permet d'importer divers types de fichiers, notamment le texte brut, Markdown, Microsoft Word, CSV, HTML, PDF et ZIP. Il est également possible d'importer des données depuis des applications tierces comme Confluence, Asana, Evernote ou Trello. Pour importer depuis Evernote, il faut se connecter à son compte et sélectionner les carnets à importer, qui apparaîtront sous forme de pages dans Notion, tandis que les notes seront organisées dans une base de données. Cependant, certaines limitations existent, comme une fiabilité jusqu'à environ 5 000 notes, des risques d'échec pour des importations plus volumineuses, et l'absence de barre de progression. De plus, les images dans les notes peuvent nécessiter un nettoyage post-importation. En cas de blocage lors de l'importation, il est conseillé d'attendre ou d'essayer avec des lots plus petits, et de signaler toute anomalie après une attente prolongée."
+  },
+  {
+    "id": "doc_076",
+    "title": "Exporter votre contenu",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/export-your-content",
+    "text": "Il n'est pas possible d'exporter une vue de formulaire d'une base de données dans Notion. Il est recommandé d'exporter les questions et réponses via la vue Table. Pour exporter une page ou une base de données au format PDF, il faut cliquer sur l'icône en haut à droite de la page, sélectionner \"Exporter\", puis choisir le format PDF dans la fenêtre qui s'ouvre. L'utilisateur peut décider d'exporter tout le contenu ou d'exclure les fichiers et images, et ajuster le format de page ainsi que l'échelle. En fonction des paramètres du navigateur, le téléchargement du PDF peut commencer immédiatement ou nécessiter une confirmation de l'emplacement d'enregistrement. Les utilisateurs ayant un forfait Business ou Entreprise peuvent activer l'option \"Inclure les sous-pages\", ce qui génère un fichier zip contenant toutes les sous-pages au format PDF, ainsi que les images et ressources. En cas d'échec de l'exportation en PDF, Notion exporte le fichier au format HTML. Sur mobile, l'exportation se fait également par l'icône en haut à droite, avec des options similaires pour le format et l'envoi du fichier. Les utilisateurs peuvent partager le fichier via AirDrop ou recevoir un lien de téléchargement par e-mail."
+  },
+  {
+    "id": "doc_077",
+    "title": "Sauvegarder vos données",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/back-up-your-data",
+    "text": "Notion permet aux utilisateurs d'exporter l'intégralité de leur espace de travail pour sauvegarder leurs données, qui sont par ailleurs stockées dans le cloud. Les utilisateurs peuvent choisir d'exporter leurs pages au format HTML, markdown ou CSV pour les bases de données, tandis que ceux disposant d'un forfait Business ou Entreprise ont également la possibilité d'exporter en PDF, ce qui est particulièrement utile pour les exigences légales et de conformité. Il est important de noter que certaines pages, comme celles privées d'autres utilisateurs, ne seront pas incluses dans l'exportation. Les administrateurs d'un espace de travail Entreprise peuvent accorder des autorisations d'accès à des pages spécifiques pour les inclure dans les exportations futures. Un plan du site est généré pour faciliter la navigation dans l'espace exporté. Pour procéder à l'exportation, il faut accéder aux paramètres, sélectionner l'option d'exportation et un lien de téléchargement sera envoyé par e-mail, valable pendant sept jours. En ce qui concerne la restauration, les pages supprimées restent dans la corbeille pendant 30 jours par défaut, et les utilisateurs peuvent restaurer des pages en accédant à la corbeille ou à l'historique des modifications, selon leur forfait. En cas de suppressions accidentelles, Notion propose une assistance pour récupérer les données."
+  },
+  {
+    "id": "doc_078",
+    "title": "Intégrations, favoris et mentions de lien",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/embed-and-connect-other-apps",
+    "text": "Pour insérer une intégration dans Notion, commencez par cliquer sur le symbole \"+\" à gauche d'une nouvelle ligne et sélectionnez \"Intégration\". Vous pouvez également utiliser la commande \"/intégration\" pour importer divers types de fichiers tels que des images, des vidéos ou des documents. Notion permet d'intégrer du contenu provenant de plus de 1900 domaines grâce au service Iframely, facilitant ainsi l'importation de vidéos, d'images, de fichiers audio et d'autres éléments directement dans vos pages. Il est important de noter que certains sites peuvent interdire l'intégration de leur contenu, ce qui peut entraîner un message d'erreur. Notion prend en charge divers types de fichiers, y compris HTML, PDF, audio, vidéo et images. Pour transformer une URL en intégration, il suffit de la coller dans votre page, en veillant à ce qu'elle commence par \"https\". De plus, la plupart des intégrations peuvent être redimensionnées pour s'adapter au contenu. Cependant, certaines intégrations nécessitant une connexion à un site externe ne fonctionneront pas sur l'application de bureau ou mobile de Notion. Des blocs préconfigurés sont disponibles pour certains médias et applications, facilitant ainsi leur ajout."
+  },
+  {
+    "id": "doc_079",
+    "title": "Ajouter et gérer des intégrations",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/add-and-manage-connections-with-the-api",
+    "text": "Dans les forfaits Entreprise de Notion, certaines fonctionnalités sont réservées aux propriétaires d'espaces de travail, notamment la gestion des connexions et des intégrations. Les membres peuvent ajouter des connexions via les Paramètres sous l'onglet Connexions, mais les propriétaires ont des droits supplémentaires pour installer des intégrations de sécurité et de conformité. Pour ajouter une connexion à une page, il faut ouvrir la page, cliquer sur le menu en haut à droite, puis sélectionner \"Ajouter des connexions\". Seules les connexions créées pour l'espace de travail seront visibles. Pour retirer une connexion, il suffit de survoler son nom et de choisir \"Déconnecter\". La gestion des connexions est une fonctionnalité exclusive aux utilisateurs du forfait Enterprise, sans nécessité de vérification de domaine. Les propriétaires peuvent contrôler l'accès des intégrations aux pages spécifiques et déterminer qui peut gérer cet accès. Dans les paramètres, ils peuvent sélectionner les pages auxquelles une intégration peut accéder et choisir si tous les membres ou uniquement les propriétaires peuvent gérer cet accès. Cela signifie que si l'accès est restreint aux propriétaires, seuls ceux-ci pourront connecter ou déconnecter les intégrations sur les pages concernées, limitant ainsi les actions des membres."
+  },
+  {
+    "id": "doc_080",
+    "title": "Intégrations de l’API de Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/create-integrations-with-the-notion-api",
+    "text": "Pour accéder à la documentation et aux outils de gestion des intégrations sur Notion, il est nécessaire de se rendre dans l'espace pour les développeurs. Les propriétaires d'espace de travail ont la responsabilité de gérer les connexions. Pour créer une intégration interne, il faut cliquer sur \"Paramètres\" puis sur \"Intégrations\". Seuls les propriétaires peuvent accéder à cet onglet. En bas de la fenêtre, l'option \"Développer vos propres intégrations\" permet d'ouvrir une nouvelle fenêtre où il faut cliquer sur \"+ Nouvelle intégr.\". Il est essentiel de donner un nom à l'intégration et de choisir l'espace de travail associé. Il est également important de s'assurer que le même compte Notion est utilisé sur le web et l'application de bureau pour éviter des confusions. Une fois l'intégration ajoutée, elle sera visible dans le menu \"Paramètres\" sous \"Connexions\", où le jeton d’intégration pourra être récupéré pour les automatisations. Les intégrations internes sont spécifiques à un espace de travail, nécessitant une nouvelle création pour un autre espace. Pour les intégrations publiques, il faut d'abord créer une intégration interne, puis suivre les instructions du guide du développeur. Les développeurs peuvent choisir le niveau d'accès requis lors de la configuration de l'application, incluant diverses autorisations en matière de contenu et d'utilisateur."
+  },
+  {
+    "id": "doc_081",
+    "title": "Aperçus de liens",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/link-previews",
+    "text": "Les aperçus de liens dans Notion permettent d'afficher des informations en temps réel provenant de diverses plateformes externes, telles que GitHub, Jira, Slack, Asana, Trello, et bien d'autres. Pour utiliser cette fonctionnalité, il suffit de copier un lien depuis l'une des applications compatibles et de le coller dans Notion en sélectionnant l'option \"Coller en tant qu’aperçu\". Lors de la première utilisation, un bouton apparaîtra pour vous inviter à vous connecter à l'application, ce qui nécessitera une authentification. Une fois la connexion établie, un aperçu détaillé du contenu sera visible et se mettra à jour automatiquement en fonction des modifications apportées. Il est important de noter que toutes les personnes ayant accès à votre page Notion pourront également voir le contenu de l’aperçu, bien que certaines informations, comme les noms de canaux privés sur Slack, soient masquées. En plus des aperçus, il est possible de coller des liens sous forme de mentions, offrant une vue plus condensée. Cependant, des messages d'erreur tels que \"Accès refusé\" peuvent survenir si les autorisations d'accès ne sont pas adéquates ou si des restrictions ont été mises en place par l'entreprise. Dans ce cas, il est conseillé de consulter un administrateur pour résoudre le problème."
+  },
+  {
+    "id": "doc_082",
+    "title": "Bases de données synchronisées",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/synced-databases",
+    "text": "Les bases de données synchronisées dans Notion, disponibles uniquement avec les forfaits Business ou Enterprise, permettent d'intégrer des données provenant d'autres plateformes comme Jira, GitHub, Asana et GitLab. Ces données se synchronisent de manière continue, mais uniquement dans un sens : les modifications doivent être effectuées sur la plateforme d'origine pour être reflétées dans Notion. Pour créer une base de données synchronisée, il suffit de copier le lien d'un projet dans l'application source et de le coller dans Notion en sélectionnant l'option appropriée. Une fois connecté à l'application tierce, la base de données apparaîtra sous forme de tableau, avec toutes les propriétés ajoutées automatiquement. Il est important de noter que si une propriété est supprimée dans l'application d'origine, la ligne correspondante dans Notion sera également supprimée, sans possibilité de restauration. De plus, si une propriété Notion a le même nom qu'une propriété de l'application tierce, elle ne sera pas synchronisée. Les utilisateurs peuvent également ajouter des propriétés Notion à ces bases de données synchronisées, y compris la propriété « Personnes », ce qui facilite la gestion des tâches et des projets à travers différentes équipes et outils."
+  },
+  {
+    "id": "doc_083",
+    "title": "Propriétés connectées",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/connected-properties",
+    "text": "Les propriétés connectées dans Notion permettent d'intégrer des données provenant de divers services comme Google Drive, Figma, Zendesk et GitHub directement dans vos bases de données. Pour connecter des fichiers Google Drive, il est nécessaire d'avoir un abonnement Plus, Business ou Enterprise. Il suffit d'ajouter une propriété de type \"Fichier Google Drive\", de suivre le processus d'authentification, puis de coller un lien ou de sélectionner un fichier dans votre Drive. De même, pour Figma, les utilisateurs des forfaits Business et Enterprise peuvent ajouter une propriété \"Fichier Figma\" en suivant une procédure similaire. Les tickets Zendesk peuvent également être intégrés de la même manière, nécessitant un abonnement Business ou Enterprise. Pour cela, il faut ajouter une propriété \"Ticket Zendesk\" et suivre le processus d'authentification. Enfin, les Pull Requests GitHub peuvent être connectées en ajoutant une propriété \"Pull Request GitHub\", après avoir connecté votre compte GitHub à Notion. Il est essentiel d'ajouter l'identifiant unique de la tâche Notion à la Pull Request ou de coller l'URL de la Pull Request dans la propriété pour une intégration réussie. Ces fonctionnalités facilitent la gestion des projets en centralisant les informations pertinentes dans Notion."
+  },
+  {
+    "id": "doc_084",
+    "title": "Importation Asana",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/asana",
+    "text": "L'importation depuis Asana permet de transférer les tâches, projets et équipes d'Asana vers Notion, accessible à tous les utilisateurs, quel que soit leur forfait. Cette importation est idéale si Notion devient votre principal outil de travail, car elle crée une duplication des données sans synchronisation avec Asana. En revanche, si vous utilisez à la fois Asana et Notion, les bases de données synchronisées peuvent être une meilleure option, permettant de connecter les deux sans importer de données, bien que les modifications doivent être effectuées dans Asana pour se refléter dans Notion. Pour établir une base de données synchronisée, il suffit de coller un lien de projet Asana dans Notion. Lors de l'importation, certains éléments comme les projets, tâches, dates d'échéance et descriptions sont transférés, tandis que d'autres comme les automatisations, rapports et intégrations externes ne le sont pas. La capacité d'importation est fiable jusqu'à environ 6 000 tâches et 200 projets, et il est conseillé de diviser les migrations plus volumineuses en plusieurs lots. De plus, chaque espace de travail peut importer environ 100 à 120 pièces jointes par jour, ce qui nécessite une planification pour les importations massives. Pour commencer, il faut être associé à une équipe sur Asana et importer un seul espace de travail à la fois."
+  },
+  {
+    "id": "doc_085",
+    "title": "Importation Confluence",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/import-from-confluence",
+    "text": "Centraliser vos données est essentiel, et ce tutoriel vous guide pour importer votre espace Confluence dans Notion. Deux méthodes sont disponibles pour cette importation : l'importateur de fichiers Zip et l'importateur d'API. L'importateur de fichiers Zip permet d'importer une partie de l'espace de travail, avec une limite de 5 Go par espace (ou 15 Go sur demande). En revanche, l'importateur d'API permet d'importer l'intégralité de l'espace de travail, jusqu'à 30 Go, tout en conservant les commentaires et les interactions entre utilisateurs. Il est possible d'importer jusqu'à 10 espaces Confluence simultanément via l'interface utilisateur, chaque espace générant une page de journal distincte dans Notion, mais cette fonctionnalité est réservée aux forfaits Business et Enterprise. Lors de l'importation, jusqu'à 50 000 pages peuvent être transférées, ainsi que la hiérarchie des pages, la mise en forme de base, les images et d'autres éléments, tandis que certaines données comme les autorisations et les commentaires ne sont pas importés. Pour les grandes importations, il est conseillé de diviser les exportations et d'utiliser l'importateur Zip. Une fois l'importation lancée, il est possible de fermer le navigateur, un e-mail de confirmation sera envoyé à la fin du processus."
+  },
+  {
+    "id": "doc_086",
+    "title": "Importer depuis Monday.com",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/monday",
+    "text": "L'outil d'importation de Monday.com vers Notion permet de transférer facilement des tableaux. Les éléments importés incluent tous les types de tableaux, les automatisations, les groupes, les formules, les éléments, les dépendances, ainsi que les informations sur les propriétaires des tâches et les dates d'échéance. Cependant, certaines données comme les intégrations, les commentaires, les fichiers ou documents, et certains types de colonnes ne sont pas importés. Lors de l'importation d'un tableau, s'il ne s'agit pas d'un tableau de tâches ou de projets, il sera converti en base de données classique. Les tableaux de tâches et leurs projets connexes seront importés dans les bases de données appropriées. Il est important de noter que chaque espace d'équipe dans Notion aura un projet et une base de données de tâches par importation. Les importations peuvent durer de quelques minutes à plusieurs heures, selon la taille des données, et il est conseillé de ne pas dépasser environ 8 000 tâches et 100 projets pour garantir un processus fluide. Pour démarrer l'importation, il faut accéder aux paramètres, sélectionner l'importation depuis Monday.com, et suivre les instructions pour authentifier et choisir l'espace de travail à importer."
+  },
+  {
+    "id": "doc_087",
+    "title": "Intégration GitHub",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/github",
+    "text": "L’intégration de Notion avec GitHub facilite la gestion des flux de travail de développement en permettant de lier directement le contenu GitHub dans les pages Notion. Les utilisateurs peuvent extraire des informations de GitHub dans des bases de données Notion et synchroniser les demandes d’extraction avec les tâches Notion, garantissant ainsi que l’équipe reste informée de l’état du projet. Pour configurer cette intégration, il est nécessaire de déconnecter un espace de travail Notion existant si l’on souhaite en connecter un autre à une organisation GitHub, et il faut être propriétaire de l’espace de travail Notion et administrateur de l’organisation GitHub. Dans Notion, il est possible de créer des aperçus de code en liant des fichiers ou des lignes spécifiques de GitHub, ainsi que des bases de données synchronisées en collant des liens de pull requests ou d’issues. Les propriétés GitHub prises en charge incluent le titre, les personnes assignées, la description, l’état, et d’autres, tandis que les libellés ne sont pas pris en charge. De plus, il est possible de relier les profils GitHub des membres de l’équipe à leurs comptes Notion en modifiant les paramètres d’e-mail sur GitHub pour permettre cette connexion."
+  },
+  {
+    "id": "doc_088",
+    "title": "Intégrer Slack",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/slack",
+    "text": "L'intégration de Notion avec Slack facilite la communication entre ces deux outils, permettant d'envoyer des messages depuis Slack vers des bases de données Notion et de recevoir des notifications concernant les activités dans Notion. Pour configurer cette intégration, il faut accéder aux paramètres de Notion, puis aux notifications, où l'utilisateur peut ajouter un compte Slack en suivant le processus d'authentification. Pour automatiser les notifications, il est possible de sélectionner des déclencheurs dans les paramètres de la base de données, tels que \"Page ajoutée\" ou \"Propriété modifiée\", et de choisir un canal Slack pour recevoir ces notifications. Notion utilise également l'intelligence artificielle pour répondre aux questions en se basant sur les informations des conversations Slack. Pour envoyer un message Slack dans une base de données Notion, il suffit d'utiliser la commande /notion create ou de sélectionner l'option \"Envoyer à Notion\" à côté d'un message. L'utilisateur peut choisir la base de données cible, donner un titre à la page et ajouter des propriétés. Pour créer une tâche dans Notion depuis Slack, la commande /notion task permet de spécifier le projet, le nom de la tâche, le destinataire, l'état, la date d'échéance et une description."
+  },
+  {
+    "id": "doc_089",
+    "title": "Intégrer Jira",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/jira",
+    "text": "L’intégration de Notion avec Jira permet d’accéder facilement aux projets et tickets Jira directement depuis Notion. Deux types d’intégrations sont disponibles : l’intégration Jira classique et Jira Sync. L’intégration classique est une option simplifiée qui convient pour une synchronisation unique entre un projet Jira et une base de données Notion. Cependant, elle utilise des jetons utilisateur, moins fiables que les jetons administrateur de Jira Sync. Cette dernière option est plus robuste, permettant une synchronisation continue et flexible entre plusieurs projets et bases de données, mais nécessite l’intervention d’un administrateur Jira pour sa configuration. Il est important de noter qu’il n’est pas possible de migrer directement de l’intégration classique vers Jira Sync ; une réinstallation complète est nécessaire. Pour configurer l’intégration classique, il suffit de se rendre sur la page d’intégration Jira et de cliquer sur \"Ajouter à Notion\". Les utilisateurs peuvent également créer des aperçus visuels de liens Jira dans Notion, fonctionnant avec tous les déploiements de Jira Software. Pour cela, il faut accéder aux paramètres de connexion et trouver la vignette appropriée selon le type de déploiement utilisé. Les anciennes bases de données synchronisées peuvent être mises à jour en suivant des étapes spécifiques pour les recréer avec Jira Sync."
+  },
+  {
+    "id": "doc_091",
+    "title": "Agents personnalisés",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/custom-agents",
+    "text": "Les agents personnalisés dans Notion, actuellement en version bêta, permettent d'automatiser les flux de travail manuels récurrents pour les équipes. Ils fonctionnent en arrière-plan, s'exécutant sur des déclencheurs définis et utilisant les documents et bases de données existants comme contexte. Une fois configurés, ces agents peuvent lire des pages et des bases de données, ainsi que certaines applications connectées, et effectuer diverses actions telles que la publication de rapports, la mise à jour d'enregistrements ou l'envoi de messages. Contrairement à l'agent Notion, les agents personnalisés sont conçus pour fonctionner automatiquement sans intervention manuelle. Ils peuvent être intégrés à des événements de base de données et surveiller l'espace de travail en fonction des déclencheurs configurés. Les utilisateurs peuvent définir des déclencheurs uniques pour que les agents s'exécutent en continu, selon une planification quotidienne, hebdomadaire ou mensuelle. Cela permet d'automatiser des tâches récurrentes comme les rapports réguliers ou la gestion des commentaires, ce qui contribue à gagner du temps. De plus, les agents sont sécurisés et transparents, n'agissant que sur les pages et bases de données auxquelles l'accès a été explicitement accordé."
+  },
+  {
+    "id": "doc_092",
+    "title": "Meilleures pratiques pour créer et optimiser un agent personnalisé",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/best-practices-for-creating-and-optimizing-a-custom-agent",
+    "text": "Un agent personnalisé bien conçu optimise l'utilisation des crédits Notion et améliore les résultats. Pour maximiser l'efficacité, il est conseillé d'utiliser ces agents pour des tâches récurrentes, tandis que l'agent Notion standard est préférable pour des demandes ponctuelles. Il est essentiel de choisir des déclencheurs spécifiques, comme des @mentions ou des modifications de propriétés, afin de réduire les exécutions inutiles. Il est également important de garder le contexte précis en dirigeant l'agent vers des pages ou bases de données spécifiques, ce qui permet de cibler les exécutions. Définir clairement le terme « terminé » aide l'agent à comprendre ce qu'une exécution complète implique, ce qui accélère le processus. Regrouper des tâches indépendantes, comme lire plusieurs sources simultanément, est également recommandé pour améliorer l'efficacité. En réglant le modèle sur Auto, l'agent choisit le modèle approprié pour équilibrer qualité et utilisation des crédits. Pour ceux qui découvrent les agents personnalisés, il est conseillé de commencer par des flux de travail répétables, fréquents et faciles à évaluer, comme la compilation de rapports ou la gestion des demandes. Créer d'abord une version simple de l'agent permet de s'assurer de son bon fonctionnement avant d'ajouter des fonctionnalités plus complexes."
+  },
+  {
+    "id": "doc_093",
+    "title": "Connexions MCP pour les agents personnalisés",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/mcp-connections-for-custom-agents",
+    "text": "Les connexions MCP (Model Context Protocol) permettent aux agents personnalisés de se connecter en toute sécurité à des applications externes, facilitant ainsi la lecture d'informations et la prise de mesures via des connexions préconfigurées avec des outils tels que Linear, Ramp et Canva, ou par le biais de connexions personnalisées. Ces connexions sont disponibles uniquement pour les forfaits Business et Enterprise. Les agents peuvent interagir avec des services externes à travers divers déclencheurs, y compris des exécutions programmées et des événements Notion ou Slack. Les connexions MCP se distinguent par leur nature unique, chaque connexion étant propre à un agent personnalisé et utilisant les identifiants de l'utilisateur qui l'a authentifiée, ce qui signifie que chaque agent doit établir sa propre connexion à un service donné. Pour ajouter une connexion préconfigurée, il suffit d'accéder aux paramètres de l'agent, de sélectionner un serveur préconfiguré et de suivre les instructions d'authentification. En revanche, pour les connexions personnalisées, un administrateur doit d'abord activer cette option dans les paramètres de Notion. Les connexions préconfigurées disponibles incluent des applications comme Figma, GitHub et HubSpot, permettant une intégration rapide et efficace."
+  },
+  {
+    "id": "doc_094",
+    "title": "Connecter Notion Calendar à des agents personnalisés",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/connect-calendar-to-custom-agents",
+    "text": "Les agents personnalisés de Notion peuvent se connecter à votre calendrier pour automatiser la planification des réunions et optimiser votre emploi du temps. Cette fonctionnalité est accessible avec les forfaits Business et Enterprise et fonctionne avec Notion Calendar, Google Agenda et le calendrier Apple. Les agents peuvent lire les événements existants, créer de nouveaux événements, mettre à jour des événements organisés, ajouter ou supprimer des participant·es, annuler des événements, envoyer des invitations et trouver des horaires pour des réunions avec plusieurs participant·es, même en cas de conflits. De plus, ils peuvent confirmer votre présence à des événements en attente. Pour connecter votre calendrier à un agent personnalisé, il suffit de discuter avec l'agent ou de le faire manuellement dans les paramètres. Vous devez accéder à la section Outils et accès, choisir d'ajouter une connexion Calendrier et sélectionner les calendriers auxquels l'agent aura accès. Il est essentiel de définir les autorisations appropriées, telles que la lecture ou la lecture et écriture, et de décider si l'agent doit exiger une confirmation avant d'exécuter des actions. Tester la connexion est également recommandé pour s'assurer que l'agent fonctionne comme prévu, en fournissant des instructions claires et précises."
+  },
+  {
+    "id": "doc_095",
+    "title": "Connecter Mail à des agents personnalisés",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/connect-mail-to-custom-agents",
+    "text": "Les agents personnalisés permettent de se connecter à votre compte Mail pour automatiser les flux de travail liés à la messagerie. Une fois la connexion établie, ces agents peuvent effectuer diverses actions telles que lire, organiser, rédiger et envoyer des e-mails en votre nom, soit par le biais de déclencheurs automatisés, soit via des discussions directes. Les connexions sont compatibles avec Gmail et Notion Mail, bien que l'utilisation de Notion Mail ne soit pas obligatoire pour bénéficier des fonctionnalités de connexion. Les actions supportées incluent la recherche d'e-mails, l'archivage, la gestion des étiquettes, la rédaction et l'envoi d'e-mails, ainsi que la possibilité de bloquer ou débloquer des expéditeurs. Certaines actions, comme la gestion de l'état des e-mails ou la création de rappels, ne sont disponibles que pour Notion Mail. Pour connecter Mail à un agent personnalisé, il suffit de donner des instructions spécifiques à l'agent ou de le faire manuellement dans les paramètres. Il est recommandé de tester la connexion et de formuler des instructions précises pour garantir le bon fonctionnement de l'agent. Enfin, des déclencheurs basés sur les e-mails peuvent être ajoutés pour automatiser davantage les tâches."
+  },
+  {
+    "id": "doc_096",
+    "title": "Partage et autorisations des agents personnalisés",
+    "section": "Collaboration",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/custom-agents-sharing-and-permissions",
+    "text": "Les agents personnalisés de Notion, actuellement en version bêta, sont conçus pour automatiser des tâches au sein de votre espace de travail et avec des outils connectés. Ils fonctionnent différemment de l'IA standard de Notion, qui respecte uniquement vos autorisations personnelles. En revanche, les agents personnalisés agissent comme des membres spécialisés de votre équipe, possédant leurs propres autorisations d'accès. Ces autorisations se déclinent en deux catégories : les ressources auxquelles l'agent peut accéder, telles que des pages Notion, des bases de données et des applications spécifiques, et les utilisateurs qui peuvent interagir avec l'agent. Lorsque vous partagez un agent, vous permettez à d'autres utilisateurs d'accéder aux informations que l'agent peut consulter, même s'ils n'ont pas d'accès direct à ces ressources. Par exemple, un agent nommé BudgetBot, créé par une équipe financière, peut répondre à des questions sur les dépenses en accédant à des pages privées. Les responsables de service, ayant les autorisations nécessaires, peuvent alors interroger BudgetBot pour obtenir des informations budgétaires sans avoir besoin d'un accès direct aux documents internes. Cela favorise une prise de décision rapide et éclairée au sein de l'équipe. Les paramètres d'accès des agents personnalisés peuvent être configurés lors de leur création."
+  },
+  {
+    "id": "doc_097",
+    "title": "Boutons",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/buttons",
+    "text": "Bon nombre de vos flux de travail quotidiens incluent des tâches répétitives, telles que l'établissement d'un ordre du jour ou la modification de l'état d'une tâche. Pour optimiser votre temps, Notion permet d'automatiser ces tâches via des boutons, accessibles à tous les utilisateurs, bien que certaines actions soient réservées aux forfaits payants. Les utilisateurs ayant un accès complet ou l'autorisation de modifier une page peuvent créer et gérer des boutons. Pour créer un bouton, il suffit de taper \"/\" dans une page et de sélectionner \"Bouton\", puis de lui attribuer un nom et un émoji. Ensuite, il faut choisir une action parmi plusieurs options disponibles, comme insérer des blocs, ajouter une page à une base de données, modifier des pages existantes, envoyer des notifications ou des e-mails, et ouvrir des pages ou des URL. Certaines actions, telles que l'envoi d'e-mails ou de webhooks, nécessitent un forfait payant. Il est essentiel de s'assurer que les pages et bases de données concernées sont accessibles et que l'utilisateur a les autorisations nécessaires pour que l'automatisation fonctionne correctement. De plus, il est possible d'afficher une confirmation avant l'exécution d'une action pour éviter des modifications non désirées."
+  },
+  {
+    "id": "doc_098",
+    "title": "Boutons de bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/database-buttons",
+    "text": "Les boutons de base de données dans Notion sont des propriétés qui automatisent les flux de travail, permettant des actions telles que l'approbation de documents ou la validation de tâches. Ces boutons sont accessibles à tous les utilisateurs, bien que certaines fonctionnalités soient réservées aux forfaits payants. Les utilisateurs ayant un accès complet ou des autorisations spécifiques peuvent créer et modifier ces boutons. Pour ajouter un bouton, il faut accéder aux propriétés de la base de données, sélectionner l'option appropriée et définir une étiquette pour le bouton, comme \"Approuver\" ou \"Terminer\". Ensuite, il est possible de configurer des actions automatisées en choisissant parmi différentes options, et d'intégrer des mentions ou des formules pour personnaliser davantage les actions. Il est crucial que les utilisateurs aient les autorisations nécessaires pour modifier les pages et bases de données concernées, sinon l'automatisation échouera. Les actions disponibles incluent la modification des propriétés des pages, l'ajout de nouvelles pages à une base de données, la modification de pages existantes et l'envoi de notifications à des membres spécifiques de l'espace de travail. Ces fonctionnalités permettent d'améliorer l'efficacité et la gestion des tâches au sein de Notion."
+  },
+  {
+    "id": "doc_099",
+    "title": "Automatisations des bases de données",
+    "section": "Bases de données",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/database-automations",
+    "text": "Les automatisations de bases de données dans Notion sont des séquences d’actions qui s’exécutent lorsqu'une modification spécifique est apportée à une base de données. Elles se composent de déclencheurs, qui sont les événements initiant l’automatisation, et d’actions, qui représentent les résultats de cette automatisation. Ces automatisations visent à optimiser le temps et à simplifier les tâches. Par exemple, elles peuvent être utilisées pour assigner une tâche à une personne lorsque son statut change ou pour envoyer une notification sur Slack lorsqu'une nouvelle page est ajoutée à une base de données. Il est important de noter que les automatisations ne s'appliquent pas aux pages à accès restreint et ne peuvent pas être déclenchées par d'autres automatisations, bien que des actions de bouton puissent le faire. Les automatisations de bases de données sont accessibles uniquement aux utilisateurs des forfaits payants, qui peuvent les créer, modifier ou supprimer, tandis que les utilisateurs gratuits peuvent seulement créer des automatisations pour des notifications Slack et utiliser celles présentes dans les modèles sans possibilité de modification. Pour créer une automatisation, il suffit de cliquer sur l'icône ⚡ dans la base de données, de définir un déclencheur et une action, et de personnaliser selon les besoins."
+  },
+  {
+    "id": "doc_100",
+    "title": "Actions de webhook",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/webhook-actions",
+    "text": "Avec l'action \"Envoyer un webhook\" dans les boutons, les boutons de base de données et les automatisations de base de données, Notion permet d'envoyer une requête HTTP POST à une URL spécifique, facilitant ainsi l'intégration avec des applications internes ou tierces via des plateformes d'automatisation comme Zapier ou Make. Cette fonctionnalité est accessible aux utilisateurs des forfaits payants et ne nécessite pas d'authentification. Pour configurer un webhook, il suffit de cliquer sur \"Ajouter une action\", de sélectionner \"Envoyer un webhook\" et de saisir l'URL souhaitée. Il est également possible d'ajouter des en-têtes personnalisés et de sélectionner des propriétés pour le contenu du webhook dans le cadre d'une automatisation de base de données. Cependant, certaines limitations existent : un maximum de cinq actions de webhook par automatisation, uniquement des requêtes POST supportées, et l'impossibilité d'envoyer le contenu de la page, seulement les propriétés de la base de données. En cas d'échec de l'action, une notification s'affiche et l'automatisation est mise en pause. Les propriétaires d'espaces de travail Entreprise peuvent désactiver cette fonctionnalité pour l'ensemble de leur espace via les paramètres de connexion."
+  },
+  {
+    "id": "doc_101",
+    "title": "Introduction aux formules",
+    "section": "Bases de données avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/formulas",
+    "text": "Les formules de Notion permettent d'effectuer des calculs en utilisant les propriétés de votre base de données, facilitant ainsi la compréhension de vos données. Elles peuvent être intégrées dans les automatisations et les boutons de base de données pour optimiser les flux de travail. Pour commencer, il est nécessaire d'ajouter une propriété « Formule » dans votre base de données via le menu des propriétés. L'éditeur de formules a été mis à jour, et les formules existantes ont été automatiquement converties pour fonctionner avec cette nouvelle version. La syntaxe des formules est similaire à celle utilisée en programmation, permettant de manipuler des données d'entrée à l'aide de fonctions qui produisent des résultats en sortie. Par exemple, la formule dateSubtract(prop(\"Date\"), 14, \"days\") utilise la fonction dateSubtract() pour calculer une date 14 jours avant la date spécifiée. L'éditeur de formules propose des fonctionnalités d'assistance, suggérant automatiquement des fonctions ou propriétés en fonction du contenu. Les utilisateurs peuvent naviguer dans les suggestions et créer des sauts de ligne selon leurs besoins. Un aperçu du résultat de la formule est également affiché pour chaque ligne de la base de données, bien que les sauts de ligne ne soient pas visibles dans cet aperçu."
+  },
+  {
+    "id": "doc_102",
+    "title": "Syntaxe et fonctions des formules",
+    "section": "Bases de données avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/formula-syntax",
+    "text": "Les formules Notion permettent d'effectuer des calculs et des manipulations de données en utilisant différentes propriétés et fonctions. Elles prennent en charge presque tous les types de propriétés, y compris le texte, les sélections, les cases à cocher, les dates, les nombres, et les relations. Par exemple, pour une propriété de type titre, on peut utiliser la formule prop(\"Title\") ou prop(\"Title\").length() pour obtenir la longueur du titre. Les formules peuvent également inclure des opérateurs mathématiques, logiques et de comparaison, facilitant ainsi l'écriture de calculs complexes. Les opérateurs intégrés comme +, -, *, et des valeurs booléennes comme true et false sont disponibles pour simplifier les expressions. En outre, Notion propose des fonctions telles que if et ifs, qui permettent de renvoyer des valeurs basées sur des conditions spécifiques. Par exemple, la fonction if peut renvoyer une valeur si une condition est vraie, ou une autre valeur si elle est fausse. Pour ceux qui ne savent pas comment créer une formule, Notion offre une assistance via son IA pour générer et modifier des formules. En cas d'erreurs, des articles d'aide sont disponibles pour résoudre les problèmes courants liés aux formules."
+  },
+  {
+    "id": "doc_103",
+    "title": "Erreurs courantes avec les formules",
+    "section": "Bases de données avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/common-formula-errors",
+    "text": "Si vous rencontrez des erreurs avec vos formules dans Notion, plusieurs problèmes courants peuvent en être la cause. Tout d'abord, assurez-vous d'avoir accès à toutes les pages et bases de données référencées, car l'absence d'accès peut empêcher le calcul des formules. De plus, les formules dans les automatisations doivent renvoyer un type de valeur spécifique, tel que date, texte ou nombre. Par exemple, pour une propriété de type Personne, la formule doit renvoyer un utilisateur, et non une date. Une autre limitation à prendre en compte est celle de la profondeur d'imbrication des formules, qui est limitée à 15 niveaux. Si cette limite est atteinte, Notion affichera un message d'erreur. Pour résoudre ce problème, il est conseillé de simplifier les formules en regroupant celles qui ont des fonctions similaires. En ce qui concerne les variables personnalisées, elles ne peuvent pas se référencer mutuellement si elles sont définies dans la même action d'automatisation. Il est donc préférable de créer chaque variable dans une action distincte. Enfin, les variables définies dans une automatisation ne peuvent pas être utilisées pour filtrer des pages dans les bases de données, sauf si elles sont définies comme \"Cette page\"."
+  },
+  {
+    "id": "doc_104",
+    "title": "L’application de bureau Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-for-desktop",
+    "text": "L'application de bureau de Notion offre une interface simplifiée qui réduit les distractions liées aux onglets multiples, facilitant ainsi la navigation entre les pages. Les utilisateurs reçoivent des notifications push pour les événements importants, comme les mentions ou les rappels. Lors de la création d'un nouvel onglet, l'application peut être configurée pour ouvrir automatiquement une fenêtre de recherche, permettant un accès rapide aux pages ou à l'IA de Notion. Ce paramètre est activé par défaut, mais peut être désactivé dans les préférences. De plus, la recherche rapide permet d'interroger l'IA ou de rechercher des informations sans changer de fenêtre, grâce à un raccourci clavier ou à la barre des menus sur macOS et la barre des tâches sur Windows. Notion peut également être configuré pour s'ouvrir automatiquement au démarrage de l'ordinateur, avec des options pour désactiver cette fonctionnalité sur les deux systèmes d'exploitation. Pour installer l'application de bureau sur Mac, il suffit de se rendre sur le site notion.com/desktop, de télécharger le fichier et de suivre les instructions d'installation. Cette application vise à améliorer l'efficacité et la fluidité de l'expérience utilisateur sur Notion."
+  },
+  {
+    "id": "doc_105",
+    "title": "Notion pour le Web",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-for-web",
+    "text": "Pour utiliser Notion dans votre navigateur, il suffit d'ouvrir www.notion.so et de cliquer sur \"Connexion\" situé en haut à droite de la page. Ensuite, vous devez vous connecter en utilisant votre adresse e-mail. Notion est compatible avec plusieurs navigateurs, notamment Safari, Google Chrome et Microsoft Edge, garantissant ainsi une expérience utilisateur fluide et efficace. Cependant, il est important de noter qu'Internet Explorer n'est pas pris en charge pour le moment, ce qui peut limiter l'accès pour les utilisateurs de ce navigateur. Pour obtenir des informations détaillées sur la configuration système requise pour la version Web de Notion, il est conseillé de consulter la section dédiée à cet effet sur le site. Cela permet de s'assurer que votre appareil et votre navigateur sont optimisés pour tirer le meilleur parti des fonctionnalités offertes par Notion. En résumé, l'accès à Notion via le Web est simple et direct, mais il est essentiel de respecter les recommandations de compatibilité pour éviter tout problème lors de l'utilisation de l'application."
+  },
+  {
+    "id": "doc_106",
+    "title": "Notion pour mobile",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-for-mobile",
+    "text": "Pour télécharger l'application mobile Notion, il suffit de se rendre sur le site www.notion.so via le navigateur de votre appareil. En cliquant sur le bouton de téléchargement sur la page d'accueil, vous serez redirigé vers l'Apple App Store ou le Google Play Store pour obtenir l'application gratuitement. Vous pouvez également rechercher Notion directement dans l'App Store ou le Play Store. Une fois l'application installée, connectez-vous avec votre adresse e-mail pour commencer à l'utiliser. Concernant les exigences système, il est conseillé de consulter les spécifications pour mobile. Notion AI est accessible de plusieurs manières sur mobile, notamment via un widget sur l'écran d'accueil pour ouvrir Notion AI rapidement, ou en créant un raccourci sur les appareils iOS pour y accéder facilement. Il est important de noter les différences entre les versions mobile et desktop de Notion. Sur mobile, il n'y a pas d'états de survol, et la structure en colonnes est réduite à une seule colonne. Certaines actions, comme la sélection de plusieurs blocs, l'importation de données, ou la modification des informations de compte, nécessitent une connexion sur desktop ou via un navigateur."
+  },
+  {
+    "id": "doc_107",
+    "title": "Configuration requise pour Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/system-requirements-for-notion",
+    "text": "Pour garantir une expérience optimale avec Notion, il est essentiel d'utiliser les versions les plus récentes de votre système d'exploitation et de votre navigateur. Pour l'application de bureau Notion, les utilisateurs de macOS doivent disposer de la version 11 ou ultérieure, tandis que ceux sous Windows doivent avoir Windows 10 version 21H2 ou ultérieure ou Windows Server 2016. Concernant la version Web de Notion, il est recommandé d'utiliser les deux dernières versions majeures des navigateurs Chrome, Firefox, Safari et Edge. Pour l'application mobile, les utilisateurs d'iOS doivent avoir iOS 17.0 ou une version ultérieure, et ceux d'Android doivent utiliser Android 8 ou une version ultérieure. Toutefois, certains appareils iOS ne sont pas pris en charge, notamment l'iPad Air 2, l'iPad Mini 4, l'iPad de 5e génération (2017), ainsi que les iPad Pro 9,7\" (2016) et 12,9\" (1re génération, 2015). De plus, les modèles d'iPhone non pris en charge incluent l'iPhone X (2017), l'iPhone 8 et 8 Plus (2017), l'iPhone 7, l'iPhone 6 et l'iPhone 6s. Assurez-vous de vérifier la compatibilité de votre appareil pour profiter pleinement des fonctionnalités de Notion."
+  },
+  {
+    "id": "doc_108",
+    "title": "Mobile widgets",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/mobile-widgets",
+    "text": "Accédez rapidement à Notion depuis l'écran d'accueil de votre iPhone ou Android en ajoutant un widget. Ce widget permet d'ouvrir une page ou une base de données spécifique, ou d'utiliser le widget AI Home Screen pour accéder directement à Notion AI via chat, caméra ou voix, facilitant ainsi l'accès à vos besoins. Pour iOS, le widget est une extension d'application disponible uniquement pour les versions 14.0 ou ultérieures. Pour l'ajouter, téléchargez l'application Notion depuis l'App Store, maintenez enfoncée une icône d'application sur l'écran d'accueil, sélectionnez \"Modifier l'écran d'accueil\", puis appuyez sur le bouton \"+\" pour accéder au menu des widgets. Recherchez Notion, choisissez le widget souhaité et ajoutez-le à votre écran. Vous pouvez également modifier le contenu du widget en maintenant enfoncé et en sélectionnant \"Modifier le widget\". Sur Android, téléchargez l'application depuis le Google Play Store, maintenez l'application Notion enfoncée, puis sélectionnez \"Widgets\" pour ajouter et personnaliser le widget. Quatre types de widgets sont disponibles : Page, Favoris, Récents et Raccourcis AI. Notez que les émojis personnalisés ne s'affichent pas dans les widgets mobiles."
+  },
+  {
+    "id": "doc_109",
+    "title": "Web Clipper",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/web-clipper",
+    "text": "Le Web Clipper de Notion est une extension de navigateur disponible pour Chrome, Firefox et Safari, permettant de capturer des pages Web directement dans votre espace de travail Notion. Après avoir installé l’extension, un bouton Notion apparaît dans la barre de recherche. Pour l’utiliser, il suffit de se connecter à son compte Notion, de cliquer sur l’icône Notion, puis de choisir l’espace de travail et la page où enregistrer la capture. Il est possible de créer une nouvelle base de données pour les liens ou d’ajouter la page à une base de données existante. En enregistrant une page, la propriété « URL » est automatiquement ajoutée, incluant le lien d’origine. Des étiquettes et d’autres propriétés peuvent également être ajoutées. Sur mobile, le Web Clipper est accessible via la fonctionnalité de partage sur iOS et Android. Pour iOS, il faut activer Notion dans le menu de partage après avoir ouvert Safari ou Chrome. Sur Android, Notion est directement intégré aux options de partage. Une fois la page enregistrée, l'utilisateur peut l'ouvrir dans Notion pour la commenter et y ajouter des informations supplémentaires. Ce processus facilite l'organisation et la gestion des contenus Web au sein de Notion."
+  },
+  {
+    "id": "doc_110",
+    "title": "Extension Notion Nouvel onglet",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-new-tab-extension",
+    "text": "Pour installer l'extension Nouvel onglet Notion sur Google Chrome, commencez par la télécharger via le lien fourni. Si vous n'êtes pas encore connecté à votre compte Notion dans le navigateur, il est nécessaire de le faire ou de créer un nouveau compte. Une fois l'extension ajoutée à Chrome, ouvrez-la pour procéder à sa configuration. Dans cette étape, vous devez sélectionner votre espace de travail Notion. Pour cela, utilisez le menu déroulant situé à côté du nom de votre espace de travail actuel et choisissez l'espace de travail que vous souhaitez connecter à l'extension. Ensuite, vous devez définir la page qui s'ouvrira lorsque vous accéderez à Notion. Pour cela, sélectionnez l'option \"Modifier dans Notion\" afin d'accéder à vos paramètres. Dans le menu déroulant des paramètres, vous aurez la possibilité de choisir ce qui s'affichera au démarrage de l'extension. Les options disponibles incluent \"Accueil\", \"Dernière page consultée\", \"Page en haut de la barre latérale\" et \"IA de Notion\". Cette configuration vous permettra d'optimiser votre expérience utilisateur en fonction de vos préférences."
+  },
+  {
+    "id": "doc_111",
+    "title": "Comprendre l'utilisation des blocs",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/understanding-block-usage",
+    "text": "Dans Notion, chaque page que vous créez est composée de blocs, qui peuvent inclure du texte, des tableaux, des images et des vidéos. Chaque élément ajouté est considéré comme un bloc. Les restrictions d'utilisation des blocs dépendent du type d'espace de travail. Pour un espace de travail gratuit avec un seul propriétaire, l'utilisation des blocs est illimitée. En revanche, si l'espace a deux propriétaires ou plus, il est limité à 1 000 blocs. Une fois ce seuil atteint, il est nécessaire de passer à un forfait payant pour continuer à créer du contenu. Les forfaits payants, tels que Plus, Business et Enterprise, offrent des blocs illimités et des fonctionnalités supplémentaires. Il est important de noter que la suppression de blocs ne réduit pas le nombre total de blocs utilisés, et vous pouvez toujours modifier le contenu existant même si vous avez atteint la limite. Pour vérifier le nombre de blocs utilisés, il suffit d'accéder aux paramètres de mise à niveau du forfait. De plus, pour savoir si votre espace de travail a plusieurs propriétaires, vous pouvez consulter la section dédiée aux personnes dans les paramètres. Enfin, archiver des espaces d'équipe ne permet pas d'éviter les restrictions liées à l'utilisation des blocs."
+  },
+  {
+    "id": "doc_112",
+    "title": "Account settings & preferences",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/account-settings",
+    "text": "Pour changer votre photo de profil sur Notion, utilisez la version desktop ou web et accédez à \"Paramètres\" dans votre barre latérale, puis cliquez sur votre nom. Sélectionnez votre photo actuelle ou votre initiale, puis cliquez sur \"Ajouter une photo\" pour choisir un fichier depuis votre appareil. Pour modifier votre nom préféré, allez également dans \"Paramètres\", puis sous \"Nom préféré\", saisissez le nom souhaité. Concernant l'adresse e-mail, vous pouvez avoir jusqu'à cinq adresses sur un même compte. Pour changer votre adresse e-mail principale, rendez-vous dans \"Paramètres\", puis sous \"Sécurité du compte\", cliquez sur \"Gérer les e-mails\". Ajoutez la nouvelle adresse, un code de vérification sera envoyé, entrez-le pour valider. Une fois vérifiée, vous pouvez la définir comme principale. Si l'adresse est déjà liée à un autre compte Notion, vous devez d'abord supprimer ce compte. Les utilisateurs d'Enterprise doivent vérifier les politiques de leur organisation concernant la gestion des alias d'e-mail. En cas d'erreur lors du changement d'adresse e-mail, suivez les étapes pour supprimer le compte associé. Enfin, pour définir un mot de passe permanent, accédez à \"Paramètres\" et sélectionnez \"Définir un mot de passe\"."
+  },
+  {
+    "id": "doc_113",
+    "title": "Paramètres de notifications",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notification-settings",
+    "text": "Vous recevrez des notifications sur Notion dans plusieurs situations, notamment lorsque quelqu'un vous @mentionne, répond à votre commentaire ou vous ajoute dans une base de données. Les notifications peuvent également être déclenchées par des rappels que vous créez vous-même. Plusieurs types de notifications existent, incluant une pastille rouge indiquant le nombre de notifications en attente dans la Boîte de réception. Sur ordinateur, les commentaires et mentions apparaissent si l'application de bureau est ouverte. Notion détecte également les réunions et envoie une notification pour commencer à prendre des notes en cas d'activité audio. Des notifications par e-mail sont envoyées si aucune application Notion n'est ouverte ou si les notifications mobiles sont désactivées. À moins que l'option \"Toujours envoyer des notifications par e-mail\" soit activée, les e-mails ne seront envoyés que si vous n'utilisez pas l'application. Vous pouvez ajuster vos paramètres de notification dans la section Paramètres → Notifications, où vous pouvez gérer les notifications push sur mobile et bureau, ainsi que les notifications par e-mail. Si Notion est ouvert sur un appareil, seules les pastilles rouges seront visibles pour les rappels, tandis que les notifications push ou par e-mail ne seront pas reçues."
+  },
+  {
+    "id": "doc_114",
+    "title": "Paramètres de l'espace de travail",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/workspace-settings",
+    "text": "La gestion des paramètres d'un espace de travail Notion est principalement accessible aux administrateurs des forfaits Plus ou Entreprise. Pour modifier le nom et l'icône de l'espace de travail, il faut accéder aux paramètres via la barre latérale, puis sélectionner l'option générale sous l'espace de travail. Il est possible de saisir un nouveau nom et de choisir une icône en sélectionnant un émoji ou en téléchargeant une image. En ce qui concerne les domaines de messagerie autorisés, les administrateurs peuvent permettre aux utilisateurs d'un certain domaine de rejoindre automatiquement l'espace de travail. Cela se fait également dans les paramètres, sous l'option d'accès à un domaine de confiance, où il suffit de saisir le domaine souhaité. Pour exporter l'intégralité d'un espace de travail, les propriétaires d'organisation peuvent le faire au format HTML, markdown, CSV ou PDF, selon leur forfait. Cependant, certaines pages privées ne seront pas incluses dans l'exportation. Les propriétaires peuvent donner des autorisations d'accès à des pages spécifiques pour les inclure dans les exports futurs. Un plan du site est également généré pour faciliter la navigation dans l'espace de travail exporté."
+  },
+  {
+    "id": "doc_115",
+    "title": "Vérification en deux étapes",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/two-step-verification",
+    "text": "Pour utiliser la vérification en deux étapes sur Notion, il est nécessaire d'avoir un mot de passe et de ne pas être soumis à une authentification via un fournisseur d’identité comme Okta ou Google Workspace. Cette fonctionnalité renforce la sécurité de votre compte et est accessible sur tous les forfaits. Pour la configurer, accédez aux paramètres de votre compte, puis à la section Sécurité du compte, et sélectionnez Ajouter une méthode de vérification. Vous pouvez choisir entre un code d'application d'authentification ou un code envoyé par SMS. Si vous optez pour l'application d'authentification, scannez le QR code et entrez le code à usage unique généré. En cas de configuration par SMS, ajoutez votre numéro de téléphone et saisissez le code reçu. Il est recommandé de sauvegarder vos codes de secours lors de la première configuration. Pour vous authentifier avec un code de secours, connectez-vous avec votre e-mail et mot de passe, puis sélectionnez Essayer une autre méthode. Vous pouvez configurer jusqu'à quatre méthodes de vérification. Pour modifier ou supprimer une méthode, retournez dans les paramètres de sécurité et suivez les instructions."
+  },
+  {
+    "id": "doc_116",
+    "title": "Consentement à l’accès aux données",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/data-access-consent",
+    "text": "Pour permettre au service client de Notion d'accéder à votre compte en cas de problème ou de demande de récupération de données, vous devez donner votre consentement. Sur ordinateur, commencez par cliquer sur \"Paramètres\" dans la barre latérale, puis sélectionnez votre nom. Sous la section \"Assistance\", activez l'option \"Accès à l’assistance\". Une fois cet accès accordé, le service client pourra consulter votre contenu pendant une période de 28 jours, ou jusqu'à ce que vous décidiez de révoquer cet accès. Ce délai est visible dans l'application. Pour révoquer l'accès, retournez dans \"Paramètres\", sélectionnez votre nom et désactivez l'option \"Accès à l’assistance\". Sur mobile, le processus est similaire. Ouvrez l'application Notion, appuyez sur les trois points, puis sur \"Paramètres\". Vous pourrez alors activer ou désactiver l'option \"Accès du service client à mon compte\". Ces étapes garantissent que vous contrôlez l'accès à vos données tout en permettant au service client de vous assister efficacement. Pour plus d'informations sur la sécurité et la confidentialité de vos données, consultez l'article dédié sur le site de Notion."
+  },
+  {
+    "id": "doc_117",
+    "title": "Supprimer votre compte",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/delete-your-account",
+    "text": "Lorsque vous supprimez votre compte Notion, cette action est définitive. Il est conseillé d'exporter les données que vous souhaitez conserver avant de procéder à la suppression. Tous les espaces de travail privés dont vous êtes le seul membre seront effacés, tout comme les espaces de travail partagés où vous êtes l'unique administrateur. Tous les membres de ces espaces de travail perdront également l'accès à leur contenu. Après la suppression, vous ne pourrez plus accéder aux espaces de travail partagés dont vous êtes membre ou administrateur, ni au contenu des espaces supprimés ou desquels vous avez été retiré, y compris vos pages privées. Avant de finaliser la suppression, vous serez informé des espaces de travail concernés. Pour supprimer votre compte, vous devez accéder aux paramètres, sélectionner l'option de suppression et confirmer en saisissant votre adresse e-mail. En cas de suppression accidentelle de contenu, Notion peut récupérer les éléments effacés dans les 30 jours suivant la suppression, à condition de contacter le support. Pour migrer du contenu vers un autre espace de travail, vous pouvez utiliser l'option \"Déplacer\" dans le menu de la page, ce qui dupliquera le contenu dans le nouvel espace."
+  },
+  {
+    "id": "doc_118",
+    "title": "Changer la langue",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/change-your-language",
+    "text": "Notion est disponible dans plusieurs langues, offrant ainsi une interface accessible à un large public. Les langues actuellement prises en charge incluent l'anglais, l'anglais (GB), le japonais, le français, l'allemand, l'espagnol (Espagne et Amérique latine), le portugais (Brésil), le chinois (simplifié et traditionnel), le néerlandais, le norvégien, le suédois, le danois, le finnois, le coréen, le vietnamien, le thaï et l'indonésien. Des ajouts de nouvelles langues sont prévus dans un avenir proche. Pour changer la langue d'affichage dans Notion, il suffit de cliquer sur \"Paramètres\" dans la barre latérale, puis de sélectionner \"Préférences\". Dans la section \"Langue et heure\", l'utilisateur peut ouvrir une liste déroulante à côté de \"Langue\" et choisir la langue souhaitée. Il est important de noter que sur les appareils mobiles, la langue de l'application Notion est synchronisée avec celle de l'appareil, ce qui signifie que les utilisateurs doivent modifier les préférences de langue directement dans les paramètres de leur appareil pour changer la langue de l'application. Cette fonctionnalité permet une personnalisation facile et rapide de l'expérience utilisateur selon les préférences linguistiques."
+  },
+  {
+    "id": "doc_119",
+    "title": "Secondary emails",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/secondary-emails",
+    "text": "Les emails secondaires permettent d'associer plusieurs adresses email vérifiées à un seul compte Notion. Toutes ces adresses pointent vers le même compte, ce qui permet de se connecter, de recevoir des partages et d'être mentionné avec n'importe laquelle des adresses vérifiées. Les administrateurs d'entreprise ont la possibilité de contrôler les politiques relatives aux emails secondaires pour les utilisateurs gérés, y compris l'autorisation ou la restriction des domaines autorisés. L'utilisation d'emails secondaires présente plusieurs avantages, tels que la prévention des verrouillages de compte en ajoutant une adresse de secours, la gestion de plusieurs adresses professionnelles pour une utilisation fluide, et la possibilité pour les étudiants d'ajouter une adresse personnelle avant de perdre l'accès à leur adresse éducative. Pour ajouter un email secondaire, il suffit d'accéder aux paramètres, de cliquer sur le profil, puis de gérer les emails en entrant l'adresse souhaitée et en vérifiant le code envoyé. Les utilisateurs peuvent ajouter jusqu'à cinq emails secondaires par compte. Les organisations sous plan Enterprise peuvent contrôler si les utilisateurs peuvent gérer ces emails, avec des paramètres par défaut qui désactivent cette option pour les utilisateurs avec des adresses de domaine vérifiées, sauf si un administrateur l'autorise."
+  },
+  {
+    "id": "doc_120",
+    "title": "Clés d’accès",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/passkeys",
+    "text": "Les clés d’accès sont une alternative sécurisée et pratique aux mots de passe pour se connecter à Notion. Elles reposent sur la cryptographie à clé publique, générant des clés de sécurité uniques qui ne fonctionnent qu'avec votre compte. En plus d'être plus simples à utiliser, elles offrent une protection renforcée contre les attaques de phishing, car elles sont stockées sur votre appareil et nécessitent une authentification biométrique, comme Face ID ou Touch ID. Toutefois, leur utilisation est limitée aux utilisateurs ne faisant pas partie d'organisations qui exigent une authentification via un fournisseur d'identité tel qu'Okta ou Google Workspace. Pour configurer une clé d’accès, il suffit d'accéder aux paramètres de votre compte, de sélectionner l'option appropriée et de choisir un emplacement de stockage, comme le trousseau iCloud ou un gestionnaire de mots de passe. Notion prend en charge deux types de clés d’accès : les clés synchronisées, qui utilisent des gestionnaires d'identifiants, et les clés liées à l'appareil, qui incluent des clés de sécurité matérielles et des méthodes d'authentification mobile. Pour se connecter, il suffit de sélectionner l'option correspondante sur la page de connexion et de confirmer l'accès via biométrie."
+  },
+  {
+    "id": "doc_121",
+    "title": "Connexion et déconnexion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/log-in-and-out",
+    "text": "Vous pouvez vous connecter à Notion de plusieurs façons. La première méthode consiste à utiliser votre adresse e-mail et un code de vérification envoyé à votre boîte mail. Vous pouvez également vous connecter avec votre adresse e-mail et votre mot de passe. Pour les utilisateurs ayant un forfait Business ou Entreprise, l'authentification unique SAML est disponible si elle a été activée par le propriétaire de l'espace de travail. De plus, vous avez la possibilité de vous connecter via Google ou Apple. Si vous choisissez de vous connecter avec Google, assurez-vous que l'adresse e-mail de votre compte Notion correspond à celle de votre compte Google. Une fenêtre contextuelle vous demandera alors votre mot de passe Google, et si la validation en deux étapes est activée, une authentification supplémentaire sera nécessaire. Pour Apple, le processus est similaire : vous pouvez choisir de continuer avec Apple si les adresses e-mail sont identiques. Deux options s'offrent à vous lors de la première connexion : partager votre adresse e-mail ou la masquer. Si vous masquez votre adresse, un nouveau compte sera créé avec une adresse unique. Dans ce cas, vous ne pourrez pas l'associer à un compte Notion existant. Les e-mails de Notion seront transférés automatiquement vers l'adresse associée à votre identifiant Apple."
+  },
+  {
+    "id": "doc_122",
+    "title": "Réinitialiser Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/reset-notion",
+    "text": "Consultez la page de statut de Notion pour des mises à jour sur les problèmes connus. La réinitialisation de l'application ou du navigateur peut entraîner une déconnexion de tous vos comptes Notion, il est donc conseillé de garder vos identifiants à portée de main. Pour réinitialiser l'application de bureau Notion, accédez à la barre de menu, sélectionnez \"Afficher\" puis \"Forcer le rafraîchissement\". Ensuite, allez dans \"Aide\", puis \"Dépannage\" et choisissez \"Réinitialiser et effacer toutes les données locales\". Fermez l'application et, selon votre système d'exploitation, supprimez le dossier Notion dans les emplacements spécifiés. Si vous rencontrez des erreurs lors de la suppression, assurez-vous que l'application est complètement fermée. Pour réinitialiser Notion sur le Web, utilisez les outils de développement de votre navigateur pour vider le cache et supprimer les cookies associés à Notion. Pour les utilisateurs de Safari, accédez aux préférences et gérez les données du site Web. Sur mobile, la réinitialisation se fait simplement en supprimant et en réinstallant l'application, sans risque de perte de données, car celles-ci sont synchronisées avec votre compte."
+  },
+  {
+    "id": "doc_123",
+    "title": "I can't log in",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/cant-log-in",
+    "text": "Pour réinitialiser votre mot de passe Notion, rendez-vous sur notion.so/login, sélectionnez \"Mot de passe oublié ?\", saisissez votre adresse e-mail et cliquez sur \"Envoyer le lien de réinitialisation\". Un lien vous sera envoyé par e-mail, vous permettant d'accéder aux paramètres de votre espace de travail Notion pour définir un nouveau mot de passe. Si vous ne définissez pas de nouveau mot de passe, votre mot de passe sera supprimé, et vous pourrez vous connecter en utilisant des codes temporaires. Si vous avez perdu l'accès à l'adresse e-mail utilisée pour vous inscrire, vous pouvez mettre à jour l'adresse e-mail de votre compte via les paramètres, à condition d'avoir un mot de passe Notion. Pour changer votre adresse e-mail, accédez à \"Paramètres\" dans la barre latérale, cliquez sur votre nom, puis sous \"Sécurité du compte\", sélectionnez \"Gérer les e-mails\". Ajoutez votre nouvelle adresse e-mail, envoyez le code de vérification et définissez cette adresse comme principale. Si vous n'avez pas de mot de passe Notion, vous devrez peut-être vérifier avec votre ancienne adresse e-mail, et si vous n'y avez plus accès, vous ne pourrez pas effectuer ce changement. Pour toute difficulté supplémentaire, vous pouvez contacter le support à l'adresse indiquée."
+  },
+  {
+    "id": "doc_124",
+    "title": "Je n’arrive pas à accéder à Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/cant-access-notion",
+    "text": "Si vous rencontrez des difficultés pour accéder à Notion, il est recommandé de consulter la page de statut pour obtenir des mises à jour en temps réel sur les problèmes connus. Une première étape consiste à désactiver tous les pare-feu, VPN, logiciels de confidentialité ou antivirus qui pourraient bloquer l'accès à Notion. Il est également judicieux de vérifier si votre fournisseur d'accès Internet (FAI) bloque le domaine .so ou notion.so. Un autre aspect à considérer est la configuration de votre DNS, car un problème à ce niveau peut être résolu en remplaçant votre DNS par un DNS public tel que 8.8.8.8 ou 1.1.1.1. Pour des instructions détaillées sur cette procédure, il est conseillé de se référer à la documentation appropriée. Enfin, essayez d'accéder à Notion à partir d'un autre navigateur, d'un autre appareil ou d'une autre plateforme. Par exemple, si vous utilisez l'application de bureau, vérifiez si le problème persiste lorsque vous accédez à Notion via un navigateur web. Ces étapes devraient vous aider à identifier et potentiellement résoudre les problèmes d'accès à votre compte Notion ou à vos pages."
+  },
+  {
+    "id": "doc_125",
+    "title": "Je n’arrive pas à accéder à ma propre page",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/cant-access-my-own-page",
+    "text": "Consultez notre page de statut et X pour obtenir des mises à jour en direct sur les problèmes connus. Si vous ne parvenez pas à accéder à votre page Notion et que vous êtes invité·e à demander l’accès, il est important de vérifier que vous êtes connecté·e au bon compte Notion, surtout si vous avez plusieurs comptes ou si vous avez récemment changé votre adresse e-mail. Vous devez utiliser le compte qui a servi à créer la page. Il est également possible que votre page ait été déplacée ou que ses autorisations aient été modifiées par un administrateur de l’espace de travail. Dans ce cas, demandez à quelqu’un de restaurer l’accès à votre page. Si vous recevez un message d’erreur vous demandant de réessayer lorsque vous cliquez pour demander l’accès, cela pourrait être dû à un bug. Dans ce cas, essayez d’accéder au document depuis un autre navigateur ou videz le cache de votre navigateur avant de réessayer d’ouvrir la page. Pour des informations supplémentaires sur les problèmes de connexion ou d'accès à Notion, consultez les ressources d'aide disponibles."
+  },
+  {
+    "id": "doc_126",
+    "title": "Je ne peux pas charger ou afficher un fichier",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/cant-upload-or-view-a-file",
+    "text": "Lorsque vous tentez de charger ou d'ouvrir des fichiers multimédias dans Notion, vous pouvez rencontrer plusieurs erreurs, telles que « Cette image n’a pas pu être chargée » ou « Ce format audio ne peut être lu sur cet appareil ». Ces problèmes peuvent survenir pour diverses raisons, notamment un chargement simultané d'images sur une page. Pour résoudre ces erreurs, il est conseillé de placer les images dans des menus dépliants ou de supprimer celles qui ne sont pas nécessaires. L'utilisation du mode de navigation privée peut également aider à identifier si le problème provient de votre navigateur. Si le fichier se charge dans ce mode, il est recommandé de mettre à jour le navigateur et de vider le cache. Il est essentiel de s'assurer que le type de fichier est pris en charge par Notion et que les autorisations d'affichage sont valides, car certaines URL peuvent expirer après 24 heures. Notion prend en charge divers formats, tels que JPEG, PNG, MP4 et MP3, mais il est important de noter que certains fichiers MP4 peuvent contenir des éléments non pris en charge. Pour les vidéos YouTube, il est préférable de les lire directement dans le navigateur si elles contiennent de la musique protégée par des droits d'auteur."
+  },
+  {
+    "id": "doc_127",
+    "title": "Erreurs courantes de Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-error-messages",
+    "text": "Consultez la page de statut et X pour des mises à jour en direct sur les problèmes connus avec Notion. Parmi les erreurs courantes, on trouve des messages tels que « Un problème est survenu » ou « Impossible d’enregistrer les modifications ». Pour résoudre ces problèmes, plusieurs étapes peuvent être suivies. Tout d'abord, déconnectez-vous et reconnectez-vous à votre compte Notion. Ensuite, redémarrez votre appareil et essayez à nouveau. Il est également conseillé d'accéder à Notion depuis un autre appareil, navigateur ou onglet de navigation privée. Pensez à effacer votre stockage local et à vider le cache de votre navigateur, en suivant les instructions spécifiques pour Chrome, Edge, Firefox ou l'application de bureau Notion. Assurez-vous que votre application est à jour et que vous utilisez Notion sur un appareil pris en charge, car les Chromebook et ChromeOS ne le sont pas. Pour les utilisateurs d'iOS, une mise à niveau vers iOS 16 ou une version ultérieure est recommandée. Si vous rencontrez des erreurs de connexion, vérifiez votre connexion Internet et désactivez tout VPN qui pourrait bloquer l'accès à Notion. Enfin, vérifiez si un logiciel de sécurité ou un pare-feu pourrait également interférer avec l'accès à l'application."
+  },
+  {
+    "id": "doc_128",
+    "title": "Pratiques de sécurité",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/security-and-privacy",
+    "text": "Notion met en place des mesures de sécurité robustes pour protéger les données de ses utilisateurs. La journalisation est activée sur tous les systèmes critiques, enregistrant les tentatives de connexion, les accès aux applications et les modifications administratives, avec une ingestion par un système de gestion des incidents de sécurité. Les données des clients sont hébergées sur AWS, qui assure une durabilité de 99,9 % et effectue des sauvegardes automatiques quotidiennes, toutes chiffrées et surveillées. Les clients ont le contrôle total de leurs données, pouvant demander leur suppression sous certaines conditions. Les données sont chiffrées au repos avec la norme AES-256 et en transit via le protocole TLS 1.2 ou supérieur. Notion s'appuie sur AWS pour la sécurité physique de ses centres de données. En matière de sécurité des applications, Notion dispose d'un programme de prime aux bugs et effectue des analyses de code et des audits de sécurité après chaque développement. Un cycle de développement logiciel (SDLC) bien défini est suivi pour garantir la sécurité lors des mises à jour et des nouvelles fonctionnalités. Ces pratiques visent à assurer la protection des données et la sécurité des utilisateurs tout en respectant les exigences réglementaires."
+  },
+  {
+    "id": "doc_129",
+    "title": "Pratiques en matière de confidentialité",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/privacy",
+    "text": "Notion a établi un programme de confidentialité rigoureux, collaborant étroitement avec ses clients et fournisseurs pour garantir la protection des données. La société met en œuvre des processus conformes aux normes du secteur pour assurer la confidentialité des données. Les employés et sous-traitants de Notion signent des accords de confidentialité, et les prestataires manipulant des données personnelles doivent respecter des pratiques similaires. Les données client sont définies comme toutes les informations stockées par un client dans les services Notion, incluant potentiellement des données personnelles, mais excluant les données analytiques. Les informations relatives au compte comprennent les détails fournis par les clients pour la création et la gestion de leurs comptes, tels que les noms, mots de passe, et informations de facturation. La politique de confidentialité de Notion s'applique à ces informations. Les clients conservent la propriété et le contrôle de leurs données client, déterminant le contenu importé et gérant l'accès à leur espace de travail. Ils administrent également les données en gérant les groupes et les autorisations d'accès. Pour toute question sur les pratiques de protection des données de Notion, les clients sont invités à contacter le support."
+  },
+  {
+    "id": "doc_130",
+    "title": "Signaler un contenu inapproprié",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/report-inappropriate-content",
+    "text": "Conformément aux conditions d'utilisation de Notion, plusieurs types de contenus et d'activités sont strictement interdits sur la plateforme. Les activités illégales, telles que l'encouragement ou la facilitation de comportements criminels, ne sont pas autorisées. De même, il est prohibé de publier ou de partager du contenu graphique violent, obscène ou sexuellement explicite, ainsi que tout contenu incitant à l'automutilation, aux activités terroristes ou à la désinformation. L'exploitation des enfants est également formellement interdite, incluant toute représentation d'abus ou de maltraitance. Notion ne tolère pas le harcèlement, l'intimidation, la diffamation ou les menaces, ni la promotion de discours haineux ou de discrimination basée sur divers critères, tels que l'origine ethnique ou l'orientation sexuelle. Les utilisateurs ne peuvent pas enfreindre les droits de propriété intellectuelle ni publier de logiciels malveillants ou trompeurs. L'usurpation d'identité et l'hameçonnage sont également prohibés, tout comme la publication d'informations personnelles ou confidentielles qui pourraient porter atteinte à la vie privée d'autrui. Les organisations ou individus impliqués dans de telles pratiques ne sont pas autorisés à utiliser Notion, garantissant ainsi un environnement respectueux et sécurisé pour tous les utilisateurs."
+  },
+  {
+    "id": "doc_131",
+    "title": "L’IA de la notion pour les bases de données",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/autofill",
+    "text": "Vous pouvez créer une base de données en quelques secondes grâce à l’IA de Notion, sans frais supplémentaires ni nécessité d'avoir l'IA dans votre espace de travail. Pour générer une base de données dans une page existante, créez ou ouvrez une page, sélectionnez \"Table\" sous \"Premiers pas avec\", ou utilisez la commande slash \"/database\". Ensuite, choisissez \"Générer avec l’IA\" et fournissez des détails sur la base de données souhaitée, comme un outil de suivi des commentaires des clients. L’IA vous présentera un aperçu de la base de données avec des options pour ajouter ou supprimer des fonctionnalités, et vous pourrez demander des modifications spécifiques. Une fois satisfait, sélectionnez \"Continuer\", choisissez votre mode de visualisation, puis cliquez sur \"Terminé\". Pour créer une base de données depuis la page d’accueil, passez en mode \"Créer\" dans le widget IA, fournissez les détails nécessaires, et suivez le même processus. Il est important de noter que l’IA de Notion ne peut pas modifier des bases de données existantes ni créer des pages, automatisations, formulaires, graphiques ou modèles de pages de base de données. Les bases de données créées seront ajoutées comme nouvelles pages dans votre espace de travail."
+  },
+  {
+    "id": "doc_132",
+    "title": "Notes d’IA (bêta)",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/ai-meeting-notes",
+    "text": "Les Notes d’IA de Notion, actuellement en version bêta, sont conçues pour faciliter la prise de notes lors des réunions. Cette fonctionnalité permet à l'IA de transcrire les discussions, d'identifier les points clés et de lister les tâches à accomplir, offrant ainsi une vue d'ensemble claire à partager avec l'équipe. Pour y accéder, il est nécessaire de disposer d'un abonnement Business ou Enterprise, ou d'un abonnement mobile compatible, et de l'application de bureau Notion version 4.7.0 ou ultérieure. Les utilisateurs de Mac doivent avoir macOS 13 ou une version plus récente, tandis que les utilisateurs de Windows doivent utiliser la dernière version de l'application. Les Notes d’IA peuvent être utilisées dans l'application Notion ou via un navigateur, bien que l'application offre une meilleure expérience, notamment pour les appels vidéo. En revanche, l'utilisation du navigateur limite la transcription à l'audio du microphone, sans enregistrer l'audio système. Pour démarrer, il suffit de saisir /notes sur une page de l'application de bureau ou de suivre les instructions pour ouvrir l'application si vous êtes sur un navigateur. Avant la réunion, il est conseillé de rédiger les points de l’ordre du jour pour que l'IA puisse les intégrer dans le résumé final."
+  },
+  {
+    "id": "doc_133",
+    "title": "Connecteurs IA de Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-ai-connectors",
+    "text": "Pour connecter des applications tierces à l'IA de Notion, un abonnement Business ou Enterprise est requis. Notion Mail, accessible gratuitement avec tous les forfaits, doit être configuré avant d'établir la connexion. Les connecteurs IA de Notion permettent d'interroger l'IA sur le contenu de votre espace de travail et d'afficher des informations pertinentes provenant des applications connectées, en citant les sources. Actuellement, ces connecteurs sont compatibles avec plusieurs applications telles que Slack, Google Drive, Jira, Gmail, Microsoft Teams, et bien d'autres. Pour utiliser ces connecteurs, vous pouvez les rechercher dans le chat de l'IA, via un bouton dans la barre latérale ou par la recherche. La configuration des connecteurs nécessite que vous soyez propriétaire de l'espace de travail et administrateur de l'application à connecter. L'ingestion de contenu peut prendre jusqu'à 72 heures selon la quantité de données. La gestion des connecteurs se fait dans les paramètres de l'IA de Notion, où vous pouvez voir et modifier vos connexions. Les connecteurs sont liés à l'espace de travail et non au propriétaire, ce qui signifie qu'ils continueront de fonctionner même si le propriétaire quitte. Une exception s'applique à Google Drive, où un autre propriétaire sera automatiquement désigné pour maintenir la connexion."
+  },
+  {
+    "id": "doc_134",
+    "title": "Réponses gratuites de l’IA de Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/complimentary-ai-responses",
+    "text": "Tout le monde peut essayer les fonctionnalités d'intelligence artificielle de Notion sans frais. Après avoir épuisé vos réponses gratuites, un message vous informera qu'un passage à un forfait Business ou Enterprise est nécessaire pour continuer à bénéficier de ces fonctionnalités. Pour passer à un forfait supérieur, il est impératif d'être propriétaire d'un espace de travail et de se connecter via un ordinateur. Les réponses de l'IA sont comptabilisées chaque fois que vous réalisez une action qui utilise l'intelligence artificielle, que ce soit pour créer ou modifier du contenu, utiliser des blocs d'IA, ajouter une propriété de remplissage automatique, poser une question, entre autres, dans Notion ou Notion Mail. Chaque clic sur le bouton \"Réessayer\" est également considéré comme une réponse supplémentaire de l'IA. Toutefois, il existe une exception : la création d'une base de données avec l'IA de Notion ne compte pas dans le quota de réponses gratuites. Ainsi, les utilisateurs doivent être attentifs à leur utilisation des fonctionnalités d'IA pour éviter de dépasser leur limite de réponses gratuites et envisager un abonnement si nécessaire."
+  },
+  {
+    "id": "doc_135",
+    "title": "Notion MCP",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/notion-mcp",
+    "text": "Notion MCP (Model Context Protocol) est un outil qui permet de relier directement des assistants d'IA comme Claude, ChatGPT et Cursor à votre espace de travail Notion, facilitant ainsi la lecture et l'écriture en temps réel dans vos pages. Contrairement aux intégrations classiques, le MCP est spécifiquement conçu pour les agents d'IA, offrant une connexion rapide et contextuelle sans nécessiter de configuration complexe. Les développeurs peuvent utiliser Cursor pour générer automatiquement de la documentation technique à partir de fichiers de code, tandis que les équipes produit peuvent analyser les retours utilisateurs pour élaborer des spécifications de fonctionnalités. Les chercheurs peuvent organiser des notes et résultats de recherche en bases de données, et les créateurs de contenu peuvent établir des calendriers éditoriaux basés sur des données de performance. Pour les utilisateurs individuels, le MCP permet de créer des itinéraires de voyage ou de transformer des enregistrements de réunion en listes de tâches. Pour connecter vos outils d'IA à Notion, il suffit de visiter la galerie Notion MCP ou d'utiliser les options intégrées des outils d'IA compatibles. Il est conseillé de commencer par des cas d'utilisation individuels, d'utiliser des titres de page clairs et de garder à l'esprit les autorisations d'accès."
+  },
+  {
+    "id": "doc_136",
+    "title": "Instructions for Notion Agent",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/instructions-for-notion-agent",
+    "text": "Les Instructions dans Notion permettent de définir comment votre Agent personnel doit répondre par défaut, en précisant le ton, le format et les règles à suivre. Chaque conversation utilise la page d'Instructions active, et vous pouvez en changer à tout moment, bien qu'une seule page puisse être utilisée à la fois. Les Instructions sont particulièrement utiles pour établir un ton constant, des règles de formatage, et une structure de sortie, garantissant que les réponses de l'Agent soient conformes à vos préférences. Par exemple, vous pouvez définir un ton concis ou amical, imposer l'utilisation de listes pour les éléments d'action, ou spécifier des informations contextuelles sur votre rôle. Pour créer une page d'Instructions, accédez à la section des paramètres de Notion AI et choisissez de créer votre propre page ou d'utiliser un modèle. La gestion des Instructions se fait également via les paramètres, où vous pouvez visualiser ou modifier votre page actuelle. Il est conseillé de formuler vos préférences de manière claire et concise, en les ajustant régulièrement pour qu'elles reflètent vos besoins évolutifs. Enfin, le partage des pages d'Instructions fonctionne comme pour les autres pages Notion, mais chaque utilisateur doit définir ses propres Instructions pour que cela prenne effet."
+  },
+  {
+    "id": "doc_137",
+    "title": "Créer et modifier des images avec l’IA de Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/create-and-edit-images-with-notion-ai",
+    "text": "Créez et modifiez des images grâce à l'IA de Notion pour concevoir des diagrammes, organigrammes et notes visuelles, tout en ajustant les résultats avec des instructions supplémentaires. Seuls les propriétaires et administrateurs de l'espace de travail peuvent activer cette fonctionnalité, qui est réservée aux forfaits Business et Enterprise. Les agents personnalisés ne peuvent pas générer d'images. Pour créer une image, il suffit de saisir /image dans un bloc image, de sélectionner l'option IA de Notion, puis de décrire ce que vous souhaitez créer, en choisissant éventuellement un style. Une fois l'image générée, vous pouvez affiner vos instructions jusqu'à obtenir le résultat désiré. Sur mobile, la création d'images se fait uniquement via le chat de l'IA de Notion. Pour modifier une image existante, survolez-la et sélectionnez l'option Modifier avec l'IA, puis décrivez les modifications souhaitées. Dans le chat de l'IA, vous pouvez également demander la création ou la modification d'images, en formulant des instructions précises. Si l'option de création d'images n'apparaît pas, cela peut être dû à des restrictions liées à votre forfait ou à des paramètres d'espace de travail non activés. Des erreurs peuvent survenir si vous atteignez vos limites d'utilisation."
+  },
+  {
+    "id": "doc_138",
+    "title": "Skills for Notion Agent",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/skills-for-notion-agent",
+    "text": "Les compétences, ou \"Skills\", dans Notion sont des prompts sauvegardés que vous pouvez exécuter avec Notion Agent selon vos besoins. Une compétence est une page que vous avez désignée comme telle, permettant de l'organiser et de la partager comme n'importe quelle autre page dans Notion. Elles sont particulièrement utiles pour des tâches répétitives telles que la relecture, l'explication ou le reformattage. Lorsque vous sélectionnez du texte sur une page, un menu de sélection de texte inclut des compétences intégrées comme \"Améliorer l'écriture\" et \"Reformater\". Vous pouvez également ajouter vos propres compétences à ce menu. Les compétences doivent être utilisées pour des tâches répétables, contextuelles et cohérentes. Par exemple, si vous devez copier-coller le même prompt plusieurs fois, cela en fait un bon candidat pour une compétence. Pour créer une compétence, vous devez accéder aux paramètres de Notion AI et sélectionner \"Ajouter une compétence\". La gestion des compétences se fait également dans les paramètres, où vous pouvez ajouter, modifier ou supprimer des compétences. Les meilleures pratiques incluent la rédaction de compétences comme des prompts solides, en précisant les exigences de sortie et en maintenant la page concise. Les compétences peuvent être exécutées via Notion Agent ou directement dans l'éditeur de texte."
+  },
+  {
+    "id": "doc_139",
+    "title": "Mode Recherche",
+    "section": "Navigation",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/research-mode",
+    "text": "Le mode Recherche dans Notion, accessible uniquement aux utilisateurs des forfaits Business ou Enterprise, permet d'effectuer des analyses sur des requêtes complexes ou ouvertes. Pour y accéder, il suffit d'ouvrir l'onglet Accueil, de sélectionner Recherche et de saisir la requête souhaitée. L'intelligence artificielle de Notion peut alors rechercher dans l'espace de travail, les applications connectées et le Web, incluant des pages Notion, des bases de données, des fichiers comme des PDF, ainsi que des contenus provenant d'applications telles que Slack, Google Drive, Microsoft Teams, Jira, Zendesk, Asana et GitHub, selon les autorisations en place. Les utilisateurs peuvent choisir des sources spécifiques à examiner grâce au menu Toutes les sources. En mode Recherche, il est possible de rechercher des pages dans les bases de données, d'identifier les pages qui en font partie et de filtrer ou trier les données selon leurs propriétés. Après avoir saisi une requête, l'IA fournit les sources utilisées pour générer un rapport, permettant aux utilisateurs de donner leur avis ou de poser des questions supplémentaires. Les résultats peuvent être copiés ou enregistrés en tant que page. Il est également possible de désactiver la recherche sur le Web, soit pour une requête spécifique, soit pour l'ensemble de l'espace de travail. Le traitement des requêtes peut prendre jusqu'à 10 minutes selon leur complexité."
+  },
+  {
+    "id": "doc_140",
+    "title": "Publier un site Notion",
+    "section": "Pages & contenu",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/public-pages-and-web-publishing",
+    "text": "Avec les sites Notion, vous pouvez publier un nombre illimité de pages sur le Web, revendiquer un domaine notion.site et activer l'indexation par les moteurs de recherche. Les utilisateurs ayant un forfait payant bénéficient de fonctionnalités supplémentaires, telles que l'optimisation pour les moteurs de recherche, des thèmes variés et l'intégration avec Google Analytics. Il est également possible d'acheter un module complémentaire pour utiliser des domaines personnalisés existants. Pour publier un site Notion, il suffit d'ouvrir la page souhaitée, de cliquer sur \"Partager\", puis sur l'onglet \"Publier\" et enfin sur \"Publier\". Une fois publié, le site s'actualise automatiquement avec chaque modification apportée à la page Notion correspondante. Les utilisateurs peuvent intégrer leurs pages Notion publiées dans des sites Web externes en copiant le code d'intégration fourni. Il est important de noter que toutes les sous-pages d'une page publiée le sont également, il est donc conseillé de vérifier leur préparation avant publication. Après publication, les utilisateurs peuvent ajuster les paramètres de leur site, comme copier le lien ou personnaliser le slug de l'URL, ce qui permet de mieux gérer l'accès et l'identité de leur site Notion."
+  },
+  {
+    "id": "doc_141",
+    "title": "Modifier et personnaliser vos sites Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/edit-and-customize-your-notion-sites",
+    "text": "Cette fonctionnalité de personnalisation est réservée aux utilisateurs ayant souscrit à un forfait payant sur Notion. Ces utilisateurs peuvent modifier l'icône principale et la barre de navigation de leurs sites, ainsi que personnaliser les aperçus de partage, l'intitulé de page et la description, qui sont essentiels pour le partage et le référencement. Pour utiliser un domaine personnalisé, il est nécessaire d'acheter un module complémentaire. Lors de la personnalisation, un aperçu s'affiche à gauche de l'écran. Pour personnaliser les aperçus de partage, il faut cliquer sur \"Partager\", puis \"Publier\" et \"Personnalisation du site\". L'utilisateur peut charger une image pour l'aperçu visuel et publier les modifications. Pour définir un thème, il suffit de sélectionner l'une des options proposées : Système, Clair ou Sombre. La personnalisation de la favicône se fait également via le même menu, avec la possibilité de choisir une icône de page ou de charger une image. Enfin, l'en-tête du site peut être ajusté pour afficher un fil d’Ariane, une fonction de recherche et un filigrane Notion, ce dernier pouvant être masqué si un domaine personnalisé est utilisé."
+  },
+  {
+    "id": "doc_142",
+    "title": "Gérer vos sites Notion",
+    "section": "Fonctionnalités Notion",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/manage-your-notion-sites",
+    "text": "Tous les membres d’un espace de travail Notion peuvent consulter et gérer les sites associés en accédant à la section Paramètres puis Pages publiques. Ils ont la possibilité de voir les domaines de l’espace de travail, les sites Notion accessibles via divers canaux, ainsi que les formulaires et pages publiques. Les propriétaires d’espace de travail ont des privilèges supplémentaires, notamment la capacité de restreindre la publication des sites. Pour personnaliser le slug d’un site, il suffit d’ouvrir la page publiée, de sélectionner Partager puis Publier, et de modifier le slug. Les utilisateurs du forfait gratuit peuvent revendiquer un domaine notion.site, tandis que ceux des forfaits payants peuvent réserver jusqu’à cinq domaines. Pour créer un nouveau domaine notion.site, il faut passer par les Paramètres, puis Pages publiques, et suivre les étapes pour définir le domaine souhaité. Une fois établi, ce domaine apparaîtra au début des URL des pages publiques. Notion se réserve le droit de récupérer un domaine à tout moment. Les propriétaires de forfaits payants peuvent également connecter des domaines personnalisés existants à Notion Sites, mais Notion ne vend pas de domaines. Les modifications de domaine nécessitent de repartir les nouveaux liens."
+  },
+  {
+    "id": "doc_143",
+    "title": "Connecter un domaine personnalisé avec les sites Notion",
+    "section": "Fonctionnalités avancées",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/connect-a-custom-domain-with-notion-sites",
+    "text": "Cette fonctionnalité de connexion de domaines personnalisés à Notion Sites est réservée aux utilisateurs des forfaits payants. Les propriétaires d'espaces de travail ayant souscrit à ces forfaits peuvent utiliser un module complémentaire pour relier leurs domaines existants à Notion. Il est important de noter que Notion ne vend pas de domaines personnalisés et ne remplace pas les fournisseurs de domaines. Une fois le domaine personnalisé connecté, un coût supplémentaire de 10 $ par mois est appliqué, avec une option de facturation annuelle à 8 $ par mois. Chaque domaine personnalisé nécessite l'achat d'un module complémentaire distinct, avec un maximum de 25 domaines autorisés. La facturation du module de domaine personnalisé suit la fréquence de votre forfait Notion, qu'elle soit mensuelle ou annuelle. Pour connecter un domaine, il faut accéder aux paramètres de Notion, sélectionner \"Nouveau domaine\" et suivre les instructions pour configurer le paiement. Il est nécessaire d'avoir déjà acheté le domaine auprès d'un fournisseur de DNS et d'inclure un sous-domaine lors de la saisie. Pour que le domaine racine redirige vers le site Notion, il est recommandé d'utiliser \"www\" comme sous-domaine et de configurer une redirection via le fournisseur de DNS."
+  },
+  {
+    "id": "doc_144",
+    "title": "Trouver des modèles sur la Marketplace",
+    "section": "Productivité",
+    "source": "Notion Docs",
+    "url": "https://www.notion.com/fr/help/finding-templates-on-marketplace",
+    "text": "La Marketplace de Notion est une plateforme dédiée à la découverte de modèles variés, gratuits ou payants, élaborés par des créateurs vérifiés. Pour y accéder, il suffit de cliquer sur l'onglet Modèles dans la barre latérale de Notion. Une fois sur la Marketplace, les utilisateurs peuvent explorer une multitude de recommandations classées par cas d'utilisation ou par popularité. Il est également possible de filtrer les modèles selon les catégories telles que Vie pro, Vie et Vie étudiante, ou d'utiliser la barre de recherche. Chaque modèle présente des informations détaillées, incluant son contenu, son créateur, les avis des utilisateurs, le nombre d'ajouts, la date de dernière modification, les catégories associées et les fonctionnalités Notion incluses. Pour ajouter un modèle, il est nécessaire d'être connecté et d'utiliser l'application de bureau ou la version Web. Les paiements se font uniquement en dollars américains par carte bancaire, et les achats sont soumis à la taxe sur les ventes. Pour acquérir un modèle, il faut choisir l'emplacement dans l'espace de travail, fournir des informations de facturation, et accepter les conditions d'utilisation. Les utilisateurs peuvent également utiliser un coupon, sous certaines conditions, avant de finaliser leur achat."
+  }
+]
